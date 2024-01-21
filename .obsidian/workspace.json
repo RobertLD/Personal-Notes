@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd08bb06109391be",
+        "id": "d50097eb1eb3ce07",
         "type": "tabs",
         "children": [
           {
-            "id": "446901c8b23909eb",
+            "id": "0c9f30130bd46963",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/README.md",
+                "file": "Reference/Jekyll/Minima/Configuration.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/README.md",
+                "file": "Reference/Jekyll/Minima/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/README.md",
+                "file": "Reference/Jekyll/Minima/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/README.md"
+                "file": "Reference/Jekyll/Minima/Configuration.md"
               }
             }
           }
@@ -146,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "446901c8b23909eb",
+  "active": "0c9f30130bd46963",
   "lastOpenFiles": [
     "Reference/Jekyll/Documentation.md",
-    "Blog/_posts/2024-01-21-Config-Test-Post.md",
-    "Reference/Jekyll",
-    "Blog/README.md",
+    "Reference/Jekyll/Minima/Configuration.md",
+    "Reference/Jekyll/Minima",
     "Daily/2024/January/21-Sun.md",
+    "Blog/_posts/2024-01-21-Config-Test-Post.md",
+    "Blog/README.md",
+    "Reference/Jekyll",
     "README.md",
     "Blog/Untitled.md",
     "Blog/_posts",
@@ -170,7 +172,6 @@
     "Daily/2024",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
-    "Reference/Obsidian/attached",
     "Reference/Obsidian/attached/Pasted image 20240121114558.png"
   ]
 }
