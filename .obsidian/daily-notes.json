@@ -1,5 +1,6 @@
 {
   "format": "YYYY/MMMM/DD-ddd",
   "folder": "Daily",
-  "autorun": true
+  "autorun": true,
+  "template": "Reference/Obsidian/templates/template_daily_notes"
 }

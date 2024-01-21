@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f8188f13631ef807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/Obsidian/templates/Untitled.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Obsidian/templates/Untitled.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Obsidian/templates/Untitled.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Obsidian/templates/Untitled.md"
+                "file": "Daily/2024/January/21-Sun.md"
               }
             }
           }
@@ -159,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8188f13631ef807",
+  "active": "fd694ae470e5f8c3",
   "lastOpenFiles": [
     "Reference/Obsidian/Plugins.md",
-    "Reference/Obsidian/templates/Untitled.md",
+    "Daily/2024/January/21-Sun.md",
+    "README.md.md",
+    "Reference/Obsidian/templates/template_daily_notes.md",
     "Reference/Obsidian/Untitled.md",
     "Reference/Obsidian/templates",
-    "Daily/2024/January/21-Sun.md",
     "Daily/2024/January",
     "Daily/2024",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
@@ -173,7 +161,6 @@
     "Reference/Obsidian/attached",
     "Reference/Obsidian/attached/Pasted image 20240121114558.png",
     "Daily",
-    "README.md.md",
     "Reference/Obsidian",
     "Reference",
     "README.md"
