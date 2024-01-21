@@ -20,4 +20,8 @@
 - [x] Update linkedin information if required
 	- [x] Update tagline and interests to reflect what I am currently interested in
 	- [x] Add skills if there is anything new to add
+- [x] Create a reading list in obsidian to include both nonfiction and fiction titles
+	- ![[nonf]]
+	- 
 
+## Notes

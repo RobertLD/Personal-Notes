@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Obsidian/templates/template_daily_notes.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Obsidian/templates/template_daily_notes.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Obsidian/templates/template_daily_notes.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Obsidian/templates/template_daily_notes.md"
+                "file": "Daily/2024/January/21-Sun.md"
               }
             }
           }
@@ -148,7 +148,13 @@
   },
   "active": "0c9f30130bd46963",
   "lastOpenFiles": [
+    "Daily/2024/January/Nonfiction.md",
     "Daily/2024/January/21-Sun.md",
+    "Reference/Reading List/Nonfiction",
+    "Reference/Reading List/Nonfiction.md",
+    "Reference/Reading List/Fiction",
+    "Reference/Reading List",
+    "Reference/Obsidian/templates/template_daily_notes.md",
     "Blog/_posts/2024-01-21-Config-Test-Post.md",
     "Blog/README.md",
     "Untitled.canvas",
@@ -166,11 +172,7 @@
     "RobertLD.github.io",
     "Blog/__.md",
     "README.md.md",
-    "Reference/Obsidian/templates/template_daily_notes.md",
     "Reference/Obsidian/Untitled.md",
-    "Reference/Obsidian/templates",
-    "Daily/2024/January",
-    "Daily/2024",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Reference/Obsidian/attached/Pasted image 20240121114558.png"

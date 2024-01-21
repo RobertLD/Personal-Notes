@@ -4,5 +4,6 @@
   "livePreview": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "./attached",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
