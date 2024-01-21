@@ -25,3 +25,12 @@
 	- ![[Fantasy]]
 
 ## Notes
+
+
+
+
+## Notes Modified Today
+```dataview
+LIST
+WHERE datemodified = this.file.day
+```

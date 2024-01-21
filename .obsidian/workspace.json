@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Shortlist.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Shortlist.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Shortlist.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Shortlist.md"
+                "file": "Daily/2024/January/21-Sun.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "0c9f30130bd46963",
   "lastOpenFiles": [
-    "Book Notes/Book Notes.md",
-    "Daily/2024/January/21-Sun.md",
+    "Reference/Jekyll/Documentation.md",
     "Ideas/Programming Project Ideas.md",
     "Ideas/Hobby Ideas.md",
-    "Reference/Shortlist.md",
+    "Daily/2024/January/21-Sun.md",
+    "Book Notes/Book Notes.md",
+    "Reference/Reading List/Shortlist.md",
     "Reference/Reading List/Fiction/Fantasy.md",
     "Reference/Reading List/Nonfiction/Software.md",
     "Reference/Reading List/Reading List.md",
@@ -172,7 +173,6 @@
     "README.md",
     "Reference/Obsidian/Plugins.md",
     "Reference/Jekyll/Minima/Configuration.md",
-    "Reference/Jekyll/Documentation.md",
     "Reference/Jekyll/Minima",
     "Reference/Jekyll",
     "Blog/Untitled.md",
