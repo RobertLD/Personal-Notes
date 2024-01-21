@@ -15,4 +15,5 @@
 	- [x] Upload notes
 	- [x] Keep bio and other information up to date
 - [ ] Update linkedin information if required
-	- [ ] 
+	- [ ] Update tagline and interests to reflect what I am currently interested in
+	- [ ] Add skills if there is anything new to add
