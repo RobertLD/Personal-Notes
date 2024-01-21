@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
+                "file": "Reference/Reading List/Nonfiction/Software.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
+                "file": "Reference/Reading List/Nonfiction/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
+                "file": "Reference/Reading List/Nonfiction/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md"
+                "file": "Reference/Reading List/Nonfiction/Software.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "0c9f30130bd46963",
   "lastOpenFiles": [
-    "Daily/2024/January/Nonfiction.md",
+    "Reference/Shortlist.md",
     "Daily/2024/January/21-Sun.md",
+    "Reference/Reading List/Fiction/Fantasy.md",
+    "Reference/Reading List/Nonfiction/Software.md",
+    "Daily/2024/January/Nonfiction.md",
     "Reference/Reading List/Nonfiction",
     "Reference/Reading List/Nonfiction.md",
     "Reference/Reading List/Fiction",
