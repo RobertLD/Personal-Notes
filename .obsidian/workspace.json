@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "67719da0fc8c1d67",
+        "id": "cd08bb06109391be",
         "type": "tabs",
         "children": [
           {
-            "id": "fd694ae470e5f8c3",
+            "id": "446901c8b23909eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/January/21-Sun.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md"
+                "file": "Blog/Untitled.md"
               }
             }
           }
@@ -148,13 +142,14 @@
   },
   "active": "0eb6044f549f3387",
   "lastOpenFiles": [
+    "Blog/Untitled.md",
+    "Daily/2024/January/21-Sun.md",
     "Blog/README.md",
     "Blog",
     "RobertLD.github.io",
     "Reference/Obsidian/Plugins.md",
     "Blog/__.md",
     "README.md.md",
-    "Daily/2024/January/21-Sun.md",
     "Reference/Obsidian/templates/template_daily_notes.md",
     "Reference/Obsidian/Untitled.md",
     "Reference/Obsidian/templates",
