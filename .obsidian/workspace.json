@@ -11,11 +11,28 @@
             "id": "fd694ae470e5f8c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8188f13631ef807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Obsidian/Plugins.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reference/Obsidian/Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reference/Obsidian/Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reference/Obsidian/Plugins.md"
+              }
             }
           }
         ]
@@ -138,6 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd694ae470e5f8c3",
-  "lastOpenFiles": []
+  "active": "f8188f13631ef807",
+  "lastOpenFiles": [
+    "Pasted image 20240121114558.png",
+    "Daily",
+    "README.md.md",
+    "Reference/Obsidian/Plugins.md",
+    "Reference/Obsidian",
+    "Reference",
+    "README.md"
+  ]
 }
