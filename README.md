@@ -1,0 +1,2 @@
+## Introduction
+This repository contains my personal notes on various topics that I find interesting, such as programming, science, history, etc. I use this repository to store and organize my notes, as well as to share them with others who might find them useful. 
