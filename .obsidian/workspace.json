@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/__.md",
-                "mode": "source",
+                "file": "Daily/2024/January/21-Sun.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/__.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/__.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/__.md"
+                "file": "Daily/2024/January/21-Sun.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "fd694ae470e5f8c3",
   "lastOpenFiles": [
-    "README.md.md",
+    "Reference/Obsidian/Plugins.md",
     "Blog/__.md",
+    "README.md.md",
     "Daily/2024/January/21-Sun.md",
     "Blog",
-    "Reference/Obsidian/Plugins.md",
     "Reference/Obsidian/templates/template_daily_notes.md",
     "Reference/Obsidian/Untitled.md",
     "Reference/Obsidian/templates",
