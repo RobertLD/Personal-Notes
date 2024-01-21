@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Reading List/Nonfiction/Software.md",
+                "file": "Reference/Shortlist.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Reading List/Nonfiction/Software.md",
+                "file": "Reference/Shortlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Reading List/Nonfiction/Software.md",
+                "file": "Reference/Shortlist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Reading List/Nonfiction/Software.md"
+                "file": "Reference/Shortlist.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "0c9f30130bd46963",
   "lastOpenFiles": [
-    "Reference/Reading List/Reading List.md",
-    "Reference/Shortlist.md",
-    "Ideas/Hobby Ideas.md",
     "Book Notes/Book Notes.md",
-    "Ideas/Programming Project Ideas.md",
     "Daily/2024/January/21-Sun.md",
+    "Ideas/Programming Project Ideas.md",
+    "Ideas/Hobby Ideas.md",
+    "Reference/Shortlist.md",
+    "Reference/Reading List/Fiction/Fantasy.md",
+    "Reference/Reading List/Nonfiction/Software.md",
+    "Reference/Reading List/Reading List.md",
     "Ideas/Untitled",
     "Ideas",
     "Book Notes",
     "Reference/Reading List/Notes",
-    "Reference/Reading List/Nonfiction/Software.md",
-    "Reference/Reading List/Fiction/Fantasy.md",
     "Daily/2024/January/Nonfiction.md",
     "Reference/Reading List/Nonfiction",
     "Reference/Reading List/Nonfiction.md",
