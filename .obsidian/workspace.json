@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-21-Config-Test-Post.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-21-Config-Test-Post.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-21-Config-Test-Post.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-21-Config-Test-Post.md.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "446901c8b23909eb",
   "lastOpenFiles": [
-    "Blog/Untitled.md",
+    "Blog/README.md",
+    "README.md",
     "Blog/_posts/2024-01-21-Config-Test-Post.md.md",
+    "Blog/Untitled.md",
     "Blog/_posts",
     "Blog/New folder",
     "Blog/_config.yml",
     "Daily/2024/January/21-Sun.md",
-    "Blog/README.md",
     "Blog",
     "RobertLD.github.io",
     "Reference/Obsidian/Plugins.md",
@@ -169,7 +170,6 @@
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Reference/Obsidian/attached",
     "Reference/Obsidian/attached/Pasted image 20240121114558.png",
-    "Daily",
-    "README.md"
+    "Daily"
   ]
 }

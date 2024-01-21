@@ -3,5 +3,6 @@
   "vimMode": false,
   "livePreview": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attached"
+  "attachmentFolderPath": "./attached",
+  "promptDelete": false
 }
