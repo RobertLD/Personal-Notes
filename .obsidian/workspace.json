@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-21-Config-Test-Post.md.md",
-                "mode": "preview",
+                "file": "Reference/Jekyll/Documentation.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-21-Config-Test-Post.md.md",
+                "file": "Reference/Jekyll/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-21-Config-Test-Post.md.md",
+                "file": "Reference/Jekyll/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-21-Config-Test-Post.md.md"
+                "file": "Reference/Jekyll/Documentation.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "446901c8b23909eb",
   "lastOpenFiles": [
-    "Daily/2024/January/21-Sun.md",
     "Blog/_posts/2024-01-21-Config-Test-Post.md.md",
-    "README.md",
+    "Reference/Jekyll/Documentation.md",
+    "Reference/Jekyll",
     "Blog/README.md",
+    "Daily/2024/January/21-Sun.md",
+    "README.md",
     "Blog/Untitled.md",
     "Blog/_posts",
     "Blog/New folder",
@@ -169,7 +171,6 @@
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Reference/Obsidian/attached",
-    "Reference/Obsidian/attached/Pasted image 20240121114558.png",
-    "Daily"
+    "Reference/Obsidian/attached/Pasted image 20240121114558.png"
   ]
 }
