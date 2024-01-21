@@ -21,16 +21,16 @@
 	- [x] Update tagline and interests to reflect what I am currently interested in
 	- [x] Add skills if there is anything new to add
 - [x] Create a reading list in obsidian to include both nonfiction and fiction titles
-	- ![[Software]]
-	- ![[Fantasy]]
+	- [[Software]]
+	- [[Fantasy]]
 
 ## Notes
 
 
 
 
-## Notes Modified Today
+#### Notes Modified Today
 ```dataview
-LIST
-WHERE datemodified = this.file.day
+list
+WHERE datemodified = this.file.day or datecreated = this.file.day 
 ```

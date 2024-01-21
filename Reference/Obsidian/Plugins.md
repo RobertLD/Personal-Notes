@@ -7,6 +7,7 @@ For ease of remembrance, I've listed the current plugins I'm using as well as wh
 2. Daily Notes - Built-in
 	- Settings![[Pasted image 20240121115055.png|50px]]
 	- Utilizing template file
-1. Attachments - Built in
+3. Attachments - Built in
 	- Settings ![[Pasted image 20240121114824.png|50px]]
-2. 
+4. DataView 
+	- Utilized in templates to collect data and group notes

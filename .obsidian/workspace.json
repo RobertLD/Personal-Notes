@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
-                "mode": "source",
+                "file": "Reference/Reading List/Nonfiction/Software.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
+                "file": "Reference/Reading List/Nonfiction/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
+                "file": "Reference/Reading List/Nonfiction/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md"
+                "file": "Reference/Reading List/Nonfiction/Software.md"
               }
             }
           }
@@ -148,15 +148,17 @@
   },
   "active": "0c9f30130bd46963",
   "lastOpenFiles": [
+    "Reference/Reading List/Reading List.md",
+    "Daily/2024/January/21-Sun.md",
+    "Reference/Obsidian/templates/template_daily_notes.md",
+    "Reference/Reading List/Shortlist.md",
+    "Reference/Obsidian/Plugins.md",
     "Reference/Jekyll/Documentation.md",
     "Ideas/Programming Project Ideas.md",
     "Ideas/Hobby Ideas.md",
-    "Daily/2024/January/21-Sun.md",
     "Book Notes/Book Notes.md",
-    "Reference/Reading List/Shortlist.md",
     "Reference/Reading List/Fiction/Fantasy.md",
     "Reference/Reading List/Nonfiction/Software.md",
-    "Reference/Reading List/Reading List.md",
     "Ideas/Untitled",
     "Ideas",
     "Book Notes",
@@ -166,12 +168,10 @@
     "Reference/Reading List/Nonfiction.md",
     "Reference/Reading List/Fiction",
     "Reference/Reading List",
-    "Reference/Obsidian/templates/template_daily_notes.md",
     "Blog/_posts/2024-01-21-Config-Test-Post.md",
     "Blog/README.md",
     "Untitled.canvas",
     "README.md",
-    "Reference/Obsidian/Plugins.md",
     "Reference/Jekyll/Minima/Configuration.md",
     "Reference/Jekyll/Minima",
     "Reference/Jekyll",
