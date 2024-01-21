@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Obsidian/Plugins.md",
+                "file": "Reference/Obsidian/templates/Untitled.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Obsidian/Plugins.md",
+                "file": "Reference/Obsidian/templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Obsidian/Plugins.md",
+                "file": "Reference/Obsidian/templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Obsidian/Plugins.md"
+                "file": "Reference/Obsidian/templates/Untitled.md"
               }
             }
           }
@@ -161,10 +161,19 @@
   },
   "active": "f8188f13631ef807",
   "lastOpenFiles": [
-    "Pasted image 20240121114558.png",
+    "Reference/Obsidian/Plugins.md",
+    "Reference/Obsidian/templates/Untitled.md",
+    "Reference/Obsidian/Untitled.md",
+    "Reference/Obsidian/templates",
+    "Daily/2024/January/21-Sun.md",
+    "Daily/2024/January",
+    "Daily/2024",
+    "Reference/Obsidian/attached/Pasted image 20240121115055.png",
+    "Reference/Obsidian/attached/Pasted image 20240121114824.png",
+    "Reference/Obsidian/attached",
+    "Reference/Obsidian/attached/Pasted image 20240121114558.png",
     "Daily",
     "README.md.md",
-    "Reference/Obsidian/Plugins.md",
     "Reference/Obsidian",
     "Reference",
     "README.md"

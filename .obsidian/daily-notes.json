@@ -1,5 +1,5 @@
 {
-  "format": "YYYY-MM-DD",
-  "folder": "Daily/YYYY/MM/dddd",
+  "format": "YYYY/MMMM/DD-ddd",
+  "folder": "Daily",
   "autorun": true
 }
