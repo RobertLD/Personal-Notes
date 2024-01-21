@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Jekyll/Minima/Configuration.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Jekyll/Minima/Configuration.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Jekyll/Minima/Configuration.md",
+                "file": "Daily/2024/January/21-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Jekyll/Minima/Configuration.md"
+                "file": "Daily/2024/January/21-Sun.md"
               }
             }
           }
@@ -148,21 +148,22 @@
   },
   "active": "0c9f30130bd46963",
   "lastOpenFiles": [
-    "Reference/Jekyll/Documentation.md",
-    "Reference/Jekyll/Minima/Configuration.md",
-    "Reference/Jekyll/Minima",
+    "Untitled.canvas",
+    "README.md",
+    "Reference/Obsidian/Plugins.md",
     "Daily/2024/January/21-Sun.md",
     "Blog/_posts/2024-01-21-Config-Test-Post.md",
+    "Reference/Jekyll/Minima/Configuration.md",
+    "Reference/Jekyll/Documentation.md",
+    "Reference/Jekyll/Minima",
     "Blog/README.md",
     "Reference/Jekyll",
-    "README.md",
     "Blog/Untitled.md",
     "Blog/_posts",
     "Blog/New folder",
     "Blog/_config.yml",
     "Blog",
     "RobertLD.github.io",
-    "Reference/Obsidian/Plugins.md",
     "Blog/__.md",
     "README.md.md",
     "Reference/Obsidian/templates/template_daily_notes.md",
