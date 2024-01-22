@@ -1,4 +1,4 @@
 1. Combinators in Haskell
 	- Research: 
-1. Functional Programming
+2. Functional Programming
 	- Research: 

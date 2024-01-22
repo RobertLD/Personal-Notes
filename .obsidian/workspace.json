@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
+                "file": "Reference/Reading List/Nonfiction/Software.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
+                "file": "Reference/Reading List/Nonfiction/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md",
+                "file": "Reference/Reading List/Nonfiction/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/January/21-Sun.md"
+                "file": "Reference/Reading List/Nonfiction/Software.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
-    "Ideas/Programming Project Ideas.md",
     "Ideas/Things to Research.md",
+    "Daily/2024/January/21-Sun.md",
+    "Ideas/Programming Project Ideas.md",
     "Untitled.canvas",
     "Ideas/Hobby Ideas.md",
     "Ideas/Blog Ideas.md",
@@ -157,7 +158,6 @@
     "Ideas/Untitled",
     "Reference/Jekyll/Minima/Configuration.md",
     "Reference/Obsidian/Plugins.md",
-    "Daily/2024/January/21-Sun.md",
     "Reference/Reading List/Nonfiction/Business.md",
     "Reference/Reading List/Reading List.md",
     "Reference/Reading List/Nonfiction/Software.md",
