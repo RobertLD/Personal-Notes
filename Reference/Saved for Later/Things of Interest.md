@@ -1,1 +1,0 @@
-#education Potentially subcribing or at least checking out the following newsletters: TLDR, ByteByteGo, The Pointer, Programming Digest

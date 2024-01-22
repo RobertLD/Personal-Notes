@@ -26,6 +26,7 @@
 
 ## Notes
 
+#journal I've been experimenting with Golang recently, and have only just not encountered something I dislike. Because of the way that slices and arrays are structured removing an element without a full data copy is a PITA. I suppose you could use a linked list but I'd also have to implement that myself. I understand the premise of having a barebones Standard library but at times it feels like Golang takes it to far.
 
 
 

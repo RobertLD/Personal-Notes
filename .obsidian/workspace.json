@@ -11,12 +11,8 @@
             "id": "b3d2c743c4258995",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Book Notes/Book Notes.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Book Notes/Book Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Book Notes/Book Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Research/Book Notes/Book Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,34 +140,34 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
+    "Research/Book Notes/Reading List/Nonfiction/Software.md",
     "Daily/2024/January/21-Sun.md",
+    "Research/Saved for Later/Things of Interest.md",
+    "Research/Book Notes/Book Notes.md",
     "Research",
     "Research/Ideas/Programming Project Ideas.md",
     "Research/Ideas/Things to Research.md",
-    "Reference/Saved for Later/Things of Interest.md",
     "Research/Ideas/Blog Ideas.md",
     "Reference/Jekyll/Minima/Configuration.md",
-    "Reference/Reading List/Shortlist.md",
-    "Reference/Reading List/Reading List.md",
-    "Reference/Reading List/Nonfiction/Business.md",
-    "Reference/Reading List/Nonfiction/Software.md",
-    "Reference/Saved for Later",
+    "Research/Book Notes/Reading List/Shortlist.md",
+    "Research/Book Notes/Reading List/Reading List.md",
+    "Research/Book Notes/Reading List/Nonfiction/Business.md",
+    "Research/Saved for Later",
     "Untitled.canvas",
     "Research/Ideas/Hobby Ideas.md",
     "Reference/Jekyll/Documentation.md",
     "Ideas/Untitled",
     "Reference/Obsidian/Plugins.md",
     "Reference/Obsidian/templates/template_daily_notes.md",
-    "Research/Book Notes/Book Notes.md",
-    "Reference/Reading List/Fiction/Fantasy.md",
+    "Research/Book Notes/Reading List/Fiction/Fantasy.md",
     "Research/Ideas",
     "Research/Book Notes",
     "Reference/Reading List/Notes",
     "Daily/2024/January/Nonfiction.md",
-    "Reference/Reading List/Nonfiction",
+    "Research/Book Notes/Reading List/Nonfiction",
     "Reference/Reading List/Nonfiction.md",
-    "Reference/Reading List/Fiction",
-    "Reference/Reading List",
+    "Research/Book Notes/Reading List/Fiction",
+    "Research/Book Notes/Reading List",
     "Blog/_posts/2024-01-21-Config-Test-Post.md",
     "Blog/README.md",
     "README.md",
