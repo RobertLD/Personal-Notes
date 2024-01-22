@@ -1,9 +1,8 @@
 
 #software
-1. Combinators in Haskell
+1. Combinators in programming Languages
 	- Research: 
 2. Functional Programming
-	- Research: 
-3. 
+	- Research: [[Programming Languages#Functional Languages]]
 
 #business

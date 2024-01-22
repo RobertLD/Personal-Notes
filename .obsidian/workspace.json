@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Ideas/Blog Ideas.md",
+                "file": "Research/Notes/Programming Languages.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Ideas/Blog Ideas.md",
+                "file": "Research/Notes/Programming Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Ideas/Blog Ideas.md",
+                "file": "Research/Notes/Programming Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Ideas/Blog Ideas.md"
+                "file": "Research/Notes/Programming Languages.md"
               }
             }
           }
@@ -146,16 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3d2c743c4258995",
+  "active": "0eb6044f549f3387",
   "lastOpenFiles": [
-    "Research/Saved for Later/Things of Interest.md",
+    "Research/Notes/Untitled",
     "Research/Ideas/Things to Research.md",
+    "Research/Notes/Programming Languages.md",
+    "Research/Notes",
+    "Research/Ideas/Blog Ideas.md",
+    "Research/Saved for Later/Things of Interest.md",
     "Research/Book Notes/Reading List/Nonfiction/Software.md",
     "Daily/2024/January/21-Sun.md",
     "Research/Book Notes/Book Notes.md",
     "Research",
     "Research/Ideas/Programming Project Ideas.md",
-    "Research/Ideas/Blog Ideas.md",
     "Reference/Jekyll/Minima/Configuration.md",
     "Research/Book Notes/Reading List/Shortlist.md",
     "Research/Book Notes/Reading List/Reading List.md",
@@ -179,11 +182,9 @@
     "Blog/_posts/2024-01-21-Config-Test-Post.md",
     "Blog/README.md",
     "README.md",
-    "Reference/Jekyll/Minima",
     "Blog/Untitled.md",
     "Blog/__.md",
     "README.md.md",
-    "Reference/Obsidian/Untitled.md",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Reference/Obsidian/attached/Pasted image 20240121114558.png"
