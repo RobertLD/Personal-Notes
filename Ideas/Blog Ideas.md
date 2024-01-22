@@ -1,0 +1,1 @@
+1. A post containing the books I want to read and why I want to read them. This would be updated overtime, including more books and what I thought of the ones I read. The key take-aways, etc
