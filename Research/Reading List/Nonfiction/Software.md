@@ -12,4 +12,4 @@ Below are the software books currently on my radar and why I'm interested in rea
 	- Reason: Recommended by the pragmatic programmer as having novel and practical ideas
 4. Pro Git
 	- Link: https://git-scm.com/book/en/v2
-	- Reason: Fre
+	- Reason: Free, and likely immediately useful considering how often I use git. There is 100% something to learn here
