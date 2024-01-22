@@ -13,3 +13,6 @@ Below are the software books currently on my radar and why I'm interested in rea
 4. Pro Git
 	- Link: https://git-scm.com/book/en/v2
 	- Reason: Free, and likely immediately useful considering how often I use git. There is 100% something to learn here
+5. Refactoring: Improving existing code
+	- Link: https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-dp-0134757599/dp/0134757599/ref=dp_ob_title_bk
+	- Reason: Provides useful ways to identify, and communicate in regards to refactoring existing code.

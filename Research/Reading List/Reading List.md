@@ -6,3 +6,8 @@ I'll be maintaining a separate but similar list on good-reads to keep track of w
 ### Book Notes
 I feel like it's important to take some semblance of notes about the books I read to remember what they were supposed to be teaching me. These notes can be found here
 - ![[Book Notes]]
+
+
+### Other lists
+There are a number of other lists online that I pull from. 
+1. https://www.programmingbooks.dev/#seven-languages-in-seven-weeks

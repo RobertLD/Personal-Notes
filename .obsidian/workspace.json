@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Reading List/Reading List.md",
+                "file": "Research/Saved for Later/Things of Interest.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Reading List/Reading List.md",
+                "file": "Research/Saved for Later/Things of Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Reading List/Reading List.md",
+                "file": "Research/Saved for Later/Things of Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Reading List/Reading List.md"
+                "file": "Research/Saved for Later/Things of Interest.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
-    "Research/Saved for Later/Things of Interest.md",
-    "Research/Reading List/Nonfiction/Software.md",
+    "Research/Notes/Programming Languages.md",
     "Research/Reading List/Reading List.md",
+    "Research/Reading List/Nonfiction/Software.md",
+    "Research/Saved for Later/Things of Interest.md",
     "Research/Reading List/Book Notes.md",
     "Daily/2024/January/22-Mon.md",
-    "Research/Notes/Programming Languages.md",
     "Research/Reading List/Nonfiction/Business.md",
     "Research/Reading List/Fiction/Fantasy.md",
     "Research/Reading List/Shortlist.md",
