@@ -10,3 +10,6 @@ Below are the software books currently on my radar and why I'm interested in rea
 3. A philosophy of Software Design
 	- Link: https://www.amazon.com/gp/product/1732102201/?ref=blog.pragmaticengineer.com
 	- Reason: Recommended by the pragmatic programmer as having novel and practical ideas
+4. Pro Git
+	- Link: https://git-scm.com/book/en/v2
+	- Reason: Fre

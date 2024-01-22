@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/22-Mon.md",
+                "file": "Research/Reading List/Nonfiction/Software.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/January/22-Mon.md",
+                "file": "Research/Reading List/Nonfiction/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/January/22-Mon.md",
+                "file": "Research/Reading List/Nonfiction/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/January/22-Mon.md"
+                "file": "Research/Reading List/Nonfiction/Software.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
-    "Research/Notes/Programming Languages.md",
-    "Daily/2024/January/22-Mon.md",
+    "Research/Reading List/Reading List.md",
+    "Research/Reading List/Book Notes.md",
     "Research/Reading List/Nonfiction/Software.md",
+    "Daily/2024/January/22-Mon.md",
+    "Research/Notes/Programming Languages.md",
     "Research/Reading List/Nonfiction/Business.md",
     "Research/Reading List/Fiction/Fantasy.md",
     "Research/Reading List/Shortlist.md",
-    "Research/Reading List/Reading List.md",
     "Research/Reading List/Nonfiction",
     "Research/Reading List/Fiction",
     "Research/Reading List",
@@ -184,7 +185,6 @@
     "Research/Book Notes",
     "Daily/2024/January/Nonfiction.md",
     "Reference/Reading List/Nonfiction.md",
-    "Blog/_posts/2024-01-21-Config-Test-Post.md",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Reference/Obsidian/attached/Pasted image 20240121114558.png"
