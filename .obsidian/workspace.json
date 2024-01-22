@@ -11,8 +11,12 @@
             "id": "b3d2c743c4258995",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Research/Ideas/Blog Ideas.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research/Ideas/Blog Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research/Ideas/Blog Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Research/Ideas/Blog Ideas.md"
+              }
             }
           }
         ]
@@ -140,13 +148,13 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
+    "Research/Saved for Later/Things of Interest.md",
+    "Research/Ideas/Things to Research.md",
     "Research/Book Notes/Reading List/Nonfiction/Software.md",
     "Daily/2024/January/21-Sun.md",
-    "Research/Saved for Later/Things of Interest.md",
     "Research/Book Notes/Book Notes.md",
     "Research",
     "Research/Ideas/Programming Project Ideas.md",
-    "Research/Ideas/Things to Research.md",
     "Research/Ideas/Blog Ideas.md",
     "Reference/Jekyll/Minima/Configuration.md",
     "Research/Book Notes/Reading List/Shortlist.md",
