@@ -10,5 +10,5 @@
 
 1. Applications are created with a dotnet utility
 `dotnet new console -lang F# -o MyFSharpApp`
-2. 
+	1. 
 
