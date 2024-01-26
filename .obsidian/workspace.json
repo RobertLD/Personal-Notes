@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+                "file": "Research/Ideas/Programming Project Ideas.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+                "file": "Research/Ideas/Programming Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+                "file": "Research/Ideas/Programming Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md"
+                "file": "Research/Ideas/Programming Project Ideas.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
-    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
+    "Research/Ideas/Things to Research.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Blog/_drafts",
     "Blog/_posts/2024-01-21-Config-Test-Post.md",
     "Daily/2024/January/26-Fri.md",
@@ -167,7 +168,6 @@
     "Research/Reading List/Nonfiction",
     "Research/Reading List/Fiction",
     "Research/Reading List",
-    "Research/Ideas/Things to Research.md",
     "Research/Notes",
     "Research/Ideas/Blog Ideas.md",
     "Research/Book Notes/Reading List/Nonfiction/Software.md",
