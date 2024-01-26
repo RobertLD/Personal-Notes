@@ -11,4 +11,9 @@
 5. Build a mobile app that reminds users if they've taken their pills today or not
 6. Website that is a decision matrix for which programming language to learn next based on user provided information. Tech: Golang/ HTMX
 7. PQL and SQL wrapper around parquet files with a GUI interface similar to datagrip.
-8. NoSQL database dsi
+8. NoSQL database designed specifically around one type of data. Could be vectors, could be strings, could be... something else?
+9. OpenAPI client generator. Parse a swagger document and generate a client for interacting with that specific API.
+10. Personal Finance simulator and decision maker
+11. Parquet/CSV file combiner and splitter cli tool
+12. Remote SQL driver server. Spin up the simple web-server and let it handle the querying and sending the results back. For databases without HTTP support
+13. Evolution simulation game with simple plants and animals (Golang?)
