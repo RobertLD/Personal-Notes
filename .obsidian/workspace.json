@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Notes/F#/Getting Started with F-Sharp.md",
+                "file": "Daily/2024/January/26-Fri.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Notes/F#/Getting Started with F-Sharp.md",
+                "file": "Daily/2024/January/26-Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Notes/F#/Getting Started with F-Sharp.md",
+                "file": "Daily/2024/January/26-Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Notes/F#/Getting Started with F-Sharp.md"
+                "file": "Daily/2024/January/26-Fri.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
-    "Research/Saved for Later/Things of Interest.md",
     "Research/Notes/F#/Getting Started with F-Sharp.md",
+    "Daily/2024/January/26-Fri.md",
+    "Research/Saved for Later/Things of Interest.md",
     "Research/Notes/F#",
     "Research/Notes/Programming Languages.md",
     "Research/Reading List/Reading List.md",
@@ -184,7 +185,6 @@
     "Research/Book Notes/Reading List/Fiction/Fantasy.md",
     "Research/Ideas",
     "Research/Book Notes",
-    "Daily/2024/January/Nonfiction.md",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Reference/Obsidian/attached/Pasted image 20240121114558.png"
