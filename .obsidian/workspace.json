@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3d2c743c4258995",
+  "active": "0eb6044f549f3387",
   "lastOpenFiles": [
+    "Blog/_drafts",
     "Blog/_posts/2024-01-21-Config-Test-Post.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Daily/2024/January/26-Fri.md",
@@ -182,7 +183,6 @@
     "Research/Ideas/Hobby Ideas.md",
     "Reference/Jekyll/Documentation.md",
     "Ideas/Untitled",
-    "Reference/Obsidian/Plugins.md",
     "Research/Ideas",
     "Research/Book Notes",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
