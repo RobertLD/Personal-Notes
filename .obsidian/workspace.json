@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Ideas/Programming Project Ideas.md",
+                "file": "Blog/_posts/2024-01-26 Project Ideas.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Ideas/Programming Project Ideas.md",
+                "file": "Blog/_posts/2024-01-26 Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Ideas/Programming Project Ideas.md",
+                "file": "Blog/_posts/2024-01-26 Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Ideas/Programming Project Ideas.md"
+                "file": "Blog/_posts/2024-01-26 Project Ideas.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3d2c743c4258995",
+  "active": "0eb6044f549f3387",
   "lastOpenFiles": [
+    "Research/Ideas/Programming Project Ideas.md",
+    "Blog/_posts/2024-01-26 Project Ideas.md",
     "Research/Ideas/Things to Research.md",
     "Research/Reading List/Nonfiction/Software.md",
     "Research/Reading List/Nonfiction/Business.md",
-    "Research/Ideas/Programming Project Ideas.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Blog/_drafts",
@@ -182,7 +183,6 @@
     "Research/Saved for Later",
     "Untitled.canvas",
     "Research/Ideas/Hobby Ideas.md",
-    "Reference/Jekyll/Documentation.md",
     "Ideas/Untitled",
     "Research/Ideas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",

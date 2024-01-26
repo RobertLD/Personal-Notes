@@ -17,3 +17,5 @@
 11. Parquet/CSV file combiner and splitter cli tool
 12. Remote SQL driver server. Spin up the simple web-server and let it handle the querying and sending the results back. For databases without HTTP support
 13. Evolution simulation game with simple plants and animals (Golang?)
+14. Anomaly Detection ML model build on top of Loki logs
+15. Market Trading Simulator using Agents with simple Neural Networks existing as Coroutines. They interact real-time with a global market data-structure
