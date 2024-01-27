@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/January/Things I Learned.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/January/Things I Learned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/January/Things I Learned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
+                "file": "Daily/2024/January/Things I Learned.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Daily/2024/January/Things I Learned.md",
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Research/Notes/F#/Getting Started with F-Sharp.md",
     "Reference/Jekyll/Documentation.md",
     "Daily/2024/January/27-Sat.md",
@@ -180,7 +181,6 @@
     "Daily/2024/January/26-Fri.md",
     "Research/Saved for Later/Things of Interest.md",
     "Research/Notes/F#",
-    "Research/Notes/Programming Languages.md",
     "Research/Reading List/Nonfiction",
     "Research/Reading List/Fiction",
     "Research/Reading List",
