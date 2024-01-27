@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "038136479c11e253",
+            "id": "606b45f35300bac0",
             "type": "leaf",
             "state": {
               "type": "red-pen-summary",
@@ -155,7 +155,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "038136479c11e253",
+  "active": "606b45f35300bac0",
   "lastOpenFiles": [
     "Reference/Obsidian/templates/what_i_learned.md",
     "Research/Things I've Learned/What-I've-Learned-in-January.md",
