@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/27-Sat.md",
+                "file": "Blog/_drafts/2024-01-27-Learning-Vim.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/January/27-Sat.md",
+                "file": "Blog/_drafts/2024-01-27-Learning-Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/January/27-Sat.md",
+                "file": "Blog/_drafts/2024-01-27-Learning-Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/January/27-Sat.md"
+                "file": "Blog/_drafts/2024-01-27-Learning-Vim.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Research/Notes/Relearning Vim.md",
+    "Blog/_drafts/2024-01-27-Learning-Vim.md",
     "Daily/2024/January/27-Sat.md",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Blog/README.md",
     "Research/Ideas/Programming Project Ideas.md",
@@ -179,8 +181,6 @@
     "Research/Book Notes/Book Notes.md",
     "Research",
     "Reference/Jekyll/Minima/Configuration.md",
-    "Research/Book Notes/Reading List/Shortlist.md",
-    "Research/Book Notes/Reading List/Reading List.md",
     "Research/Saved for Later",
     "Untitled.canvas",
     "Ideas/Untitled",
