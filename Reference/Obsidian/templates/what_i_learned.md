@@ -1,4 +1,5 @@
-# {{date:YYYY-MM-DD}}-What-I've-learned-in-{{date:MMMM}}
+
+<% tp.file.rename("What-I've-Learned-in-" + tp.date.now("MMMM")) %>
 
 
 ## Introduction
