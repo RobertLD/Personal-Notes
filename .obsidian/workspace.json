@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/index.md",
-                "mode": "source",
+                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/index.md",
+                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/index.md",
+                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/index.md"
+                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
-    "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
     "Blog/index.md",
+    "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
     "Blog/_drafts/index.md",
     "Blog/_pages",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
