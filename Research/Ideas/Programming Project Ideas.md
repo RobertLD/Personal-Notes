@@ -1,1 +1,1 @@
-[[2024-01-26-Project-Ideas]]
+[[2024-01-26-Collection-of-Project-Ideas]]
