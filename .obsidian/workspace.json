@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Obsidian/templates/what_i_learned.md",
+                "file": "Research/Things I've Learned/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Obsidian/templates/what_i_learned.md",
+                "file": "Research/Things I've Learned/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Obsidian/templates/what_i_learned.md",
+                "file": "Research/Things I've Learned/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Obsidian/templates/what_i_learned.md"
+                "file": "Research/Things I've Learned/Untitled.md"
               }
             }
           }
@@ -144,15 +144,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Daily/2024/January/Things I Learned.md",
     "Reference/Obsidian/templates/what_i_learned.md",
-    "Reference/Obsidian/templates/blog_post_template.md",
+    "Research/Things I've Learned/Untitled.md",
+    "Daily/2024/January/Things I Learned.md",
     "Reference/Obsidian/templates/template_daily_notes.md",
+    "Reference/Obsidian/templates/blog_post_template.md",
+    "Reference/Obsidian/templates/Untitled.md",
     "Research/Things I've Learned",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
@@ -178,9 +181,7 @@
     "Blog/README.md",
     "Research/Ideas/Things to Research.md",
     "Research/Reading List/Nonfiction/Software.md",
-    "Research/Reading List/Nonfiction/Business.md",
     "Blog/_drafts",
-    "Blog/_posts/2024-01-21-Config-Test-Post.md",
     "Research/Notes/F#",
     "Research/Reading List/Nonfiction",
     "Research/Reading List/Fiction",
