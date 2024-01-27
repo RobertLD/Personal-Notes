@@ -1,5 +1,5 @@
 {
-  "defaultVisibility": "show",
+  "defaultVisibility": "hide",
   "readingAge": 11,
   "algorithmThreshold": 4,
   "checkIntensify": true,

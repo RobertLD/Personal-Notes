@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Things I've Learned/What-I've-Learned-in-January.md",
+                "file": "Reference/Obsidian/templates/what_i_learned.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Things I've Learned/What-I've-Learned-in-January.md",
+                "file": "Reference/Obsidian/templates/what_i_learned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Things I've Learned/What-I've-Learned-in-January.md",
+                "file": "Reference/Obsidian/templates/what_i_learned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,24 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Things I've Learned/What-I've-Learned-in-January.md"
+                "file": "Reference/Obsidian/templates/what_i_learned.md"
               }
-            }
-          },
-          {
-            "id": "606b45f35300bac0",
-            "type": "leaf",
-            "state": {
-              "type": "red-pen-summary",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +148,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "606b45f35300bac0",
+  "active": "613da15c37ea1d27",
   "lastOpenFiles": [
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Reference/Obsidian/templates/what_i_learned.md",
     "Research/Things I've Learned/What-I've-Learned-in-January.md",
     "Research/Things I've Learned/What-I've-Learned-in January.md",
@@ -165,7 +159,6 @@
     "Reference/Obsidian/templates/blog_post_template.md",
     "Reference/Obsidian/templates/Untitled.md",
     "Research/Things I've Learned",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Research/Notes/F#/Getting Started with F-Sharp.md",
     "Reference/Jekyll/Documentation.md",
