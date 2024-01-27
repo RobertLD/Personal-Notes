@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-                "mode": "source",
+                "file": "Reference/Obsidian/templates/blog_post_template.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Reference/Obsidian/templates/blog_post_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Reference/Obsidian/templates/blog_post_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
+                "file": "Reference/Obsidian/templates/blog_post_template.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Reference/Obsidian/templates/blog_post_template.md",
+    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Research/Ideas/Programming Project Ideas.md",
     "Research/Ideas/Hobby Ideas.md",
     "Research/Ideas/Blog Ideas.md",
@@ -155,8 +158,6 @@
     "Blog/_posts/2024-01-27-Learning-Vim-again....md",
     "Research/Notes/Relearning Vim.md",
     "Daily/2024/January/27-Sat.md",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Blog/README.md",
     "Research/Ideas/Things to Research.md",
     "Research/Reading List/Nonfiction/Software.md",
@@ -179,7 +180,6 @@
     "Research/Reading List",
     "Research/Notes",
     "Research/Book Notes/Reading List/Nonfiction/Software.md",
-    "Daily/2024/January/21-Sun.md",
     "Research",
     "Research/Saved for Later",
     "Untitled.canvas",
