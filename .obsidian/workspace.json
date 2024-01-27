@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "51b2bbc9a4425485",
+        "id": "c6b69974608d82a0",
         "type": "tabs",
         "children": [
           {
-            "id": "b3d2c743c4258995",
+            "id": "613da15c37ea1d27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3d2c743c4258995",
+  "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Blog/index.md",
+    "Blog/_includes/analytics.html",
+    "Blog/_includes/ana.md",
     "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
+    "Blog/_includes",
+    "Blog/index.md",
     "Blog/_drafts/index.md",
     "Blog/_pages",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
@@ -175,8 +170,6 @@
     "Research/Saved for Later/Things of Interest.md",
     "Research/Notes/F#",
     "Research/Notes/Programming Languages.md",
-    "Research/Reading List/Reading List.md",
-    "Research/Reading List/Book Notes.md",
     "Research/Reading List/Nonfiction",
     "Research/Reading List/Fiction",
     "Research/Reading List",
@@ -184,7 +177,6 @@
     "Research",
     "Research/Saved for Later",
     "Untitled.canvas",
-    "Ideas/Untitled",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Reference/Obsidian/attached/Pasted image 20240121114558.png"
