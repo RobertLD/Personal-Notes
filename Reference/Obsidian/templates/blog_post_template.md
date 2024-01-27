@@ -4,6 +4,7 @@ title: "My First Blog Post"
 date: 2024-01-27
 categories: [tips, obsidian, jekyll]
 tags: [markdown, github pages]
+published: false
 ---
 
 
