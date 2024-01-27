@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
-                "mode": "preview",
+                "file": "Blog/index.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
+                "file": "Blog/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
+                "file": "Blog/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md"
+                "file": "Blog/index.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
+    "Blog/index.md",
+    "Blog/_drafts/index.md",
+    "Blog/_pages",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again....md",
     "Reference/Obsidian/templates/blog_post_template.md",
@@ -174,8 +177,6 @@
     "Research/Notes/Programming Languages.md",
     "Research/Reading List/Reading List.md",
     "Research/Reading List/Book Notes.md",
-    "Daily/2024/January/22-Mon.md",
-    "Research/Reading List/Fiction/Fantasy.md",
     "Research/Reading List/Nonfiction",
     "Research/Reading List/Fiction",
     "Research/Reading List",
@@ -184,7 +185,6 @@
     "Research/Saved for Later",
     "Untitled.canvas",
     "Ideas/Untitled",
-    "Research/Ideas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Reference/Obsidian/attached/Pasted image 20240121114558.png"
