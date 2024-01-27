@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_drafts/2024-01-27-Learning-Vim.md",
+                "file": "Blog/_posts/2024-01-27-Learning-Vim-again....md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_drafts/2024-01-27-Learning-Vim.md",
+                "file": "Blog/_posts/2024-01-27-Learning-Vim-again....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_drafts/2024-01-27-Learning-Vim.md",
+                "file": "Blog/_posts/2024-01-27-Learning-Vim-again....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_drafts/2024-01-27-Learning-Vim.md"
+                "file": "Blog/_posts/2024-01-27-Learning-Vim-again....md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "b3d2c743c4258995",
   "lastOpenFiles": [
     "Research/Notes/Relearning Vim.md",
-    "Blog/_drafts/2024-01-27-Learning-Vim.md",
+    "Blog/_posts/2024-01-27-Learning-Vim-again....md",
     "Daily/2024/January/27-Sat.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
