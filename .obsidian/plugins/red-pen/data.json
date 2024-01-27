@@ -1,0 +1,9 @@
+{
+  "defaultVisibility": "show",
+  "readingAge": 16,
+  "algorithmThreshold": 4,
+  "checkIntensify": true,
+  "checkReadability": true,
+  "checkPassive": true,
+  "checkSimplify": true
+}

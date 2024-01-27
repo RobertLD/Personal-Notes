@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/27-Sat.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/January/27-Sat.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/January/27-Sat.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/January/27-Sat.md"
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,6 +149,11 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Research/Notes/F#/Getting Started with F-Sharp.md",
+    "Reference/Jekyll/Documentation.md",
+    "Daily/2024/January/27-Sat.md",
     "Blog/_includes/analytics.html",
     "Blog/_includes/head.html",
     "Blog/_includes/ana.md",
@@ -156,8 +162,6 @@
     "Blog/index.md",
     "Blog/_drafts/index.md",
     "Blog/_pages",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again....md",
     "Reference/Obsidian/templates/blog_post_template.md",
     "conflict-files-obsidian-git.md",
@@ -167,7 +171,6 @@
     "Research/Ideas/Blog Ideas.md",
     "Reference/Jekyll/Minima/Configuration.md",
     "Research/Notes/Relearning Vim.md",
-    "Daily/2024/January/27-Sat.md",
     "Blog/README.md",
     "Research/Ideas/Things to Research.md",
     "Research/Reading List/Nonfiction/Software.md",
@@ -175,7 +178,6 @@
     "Blog/_drafts",
     "Blog/_posts/2024-01-21-Config-Test-Post.md",
     "Daily/2024/January/26-Fri.md",
-    "Research/Notes/F#/Getting Started with F-Sharp.md",
     "Research/Saved for Later/Things of Interest.md",
     "Research/Notes/F#",
     "Research/Notes/Programming Languages.md",
@@ -183,7 +185,6 @@
     "Research/Reading List/Fiction",
     "Research/Reading List",
     "Research/Notes",
-    "Research",
     "Untitled.canvas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
