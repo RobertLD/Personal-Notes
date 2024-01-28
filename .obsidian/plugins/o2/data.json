@@ -1,8 +1,8 @@
 {
-  "attachmentsFolder": "Blog/attachments",
+  "attachmentsFolder": "Blog/attached",
   "readyFolder": "Blog/_posts",
   "backupFolder": "Blog/_original",
-  "_jekyllPath": "Blog",
-  "_jekyllRelativeResourcePath": "attached",
+  "_jekyllPath": "C:\\Users\\rlder\\OneDrive\\Documents\\Obsidian Notes\\Blog",
+  "_jekyllRelativeResourcePath": "../attached",
   "_isAutoCreateFolder": true
 }
