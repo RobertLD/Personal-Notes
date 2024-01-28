@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+                "file": "Research/Notes/Automating Alec's Workflow.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+                "file": "Research/Notes/Automating Alec's Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+                "file": "Research/Notes/Automating Alec's Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md"
+                "file": "Research/Notes/Automating Alec's Workflow.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Blog/_posts/attached/Pasted image 20240128095538.png",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+    "Research/Notes/Automating Alec's Workflow.md",
+    "Blog/_posts/attached/Pasted image 20240128095538.png",
     "Blog/_posts/attached/Pasted image 20240128095330.png",
     "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
     "Blog/_posts/attached/Pasted image 20240128094808.png",
