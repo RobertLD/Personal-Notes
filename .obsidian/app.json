@@ -3,7 +3,7 @@
   "vimMode": true,
   "livePreview": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attached",
+  "attachmentFolderPath": "/attached",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
