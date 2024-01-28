@@ -10,6 +10,7 @@
 - Rapala is the order consumption site.  Every manufacture has their own order pad
 	- Every Rapala order is submitted at 10 at a time
 - Some people just text an order very annoying, usually they provide the SKU
+- Must match case pack
 - More or less the process of an expense report is converting a csv to an HTML form
 - Manual entry is very error prone can we confirm that?
 - Perhaps comparing the cart directly to the excel sheet to catch errors before they happen
