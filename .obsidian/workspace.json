@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "omn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,8 +152,8 @@
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
     "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
-    "Daily/2024/January/Omnivore.md",
     "Daily/2024/January/28-Sun.md",
+    "Daily/2024/January/Omnivore.md",
     "Daily/2024/January/26-Fri.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
     "Research/Things I've Learned/`.md",

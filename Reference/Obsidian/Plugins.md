@@ -11,3 +11,5 @@ For ease of remembrance, I've listed the current plugins I'm using as well as wh
 	- Settings ![[Pasted image 20240121114824.png|50px]]
 4. DataView 
 	- Utilized in templates to collect data and group notes
+5. Omnivore
+	- Save useful articles in plain-text for consumption at a later time, very useful
