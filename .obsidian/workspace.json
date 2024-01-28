@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Things I've Learned/What-I've-Learned-in-January.md",
+                "file": "Daily/2024/January/28-Sun.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Things I've Learned/What-I've-Learned-in-January.md",
+                "file": "Daily/2024/January/28-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Things I've Learned/What-I've-Learned-in-January.md",
+                "file": "Daily/2024/January/28-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Things I've Learned/What-I've-Learned-in-January.md"
+                "file": "Daily/2024/January/28-Sun.md"
               }
             }
           }
@@ -145,14 +145,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
+    "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
+    "Daily/2024/January/Omnivore.md",
+    "Daily/2024/January/28-Sun.md",
+    "Daily/2024/January/26-Fri.md",
+    "Research/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
+    "Research/Things I've Learned/`.md",
+    "Research/Saved for Later/Omnivore/2024-01-28",
+    "Research/Saved for Later/Omnivore",
+    "Research/Things I've Learned/What-I've-Learned-in-January.md",
+    "Daily/2024/January/27-Sat.md",
     "Reference/Obsidian/templates/what_i_learned.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-    "Research/Things I've Learned/What-I've-Learned-in-January.md",
     "Research/Things I've Learned/What-I've-Learned-in January.md",
     "Daily/2024/January/Things I Learned.md",
     "Reference/Obsidian/templates/template_daily_notes.md",
@@ -162,7 +172,6 @@
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Research/Notes/F#/Getting Started with F-Sharp.md",
     "Reference/Jekyll/Documentation.md",
-    "Daily/2024/January/27-Sat.md",
     "Blog/_includes/analytics.html",
     "Blog/_includes/head.html",
     "Blog/_includes/ana.md",
@@ -175,17 +184,9 @@
     "conflict-files-obsidian-git.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Research/Ideas/Programming Project Ideas.md",
-    "Research/Ideas/Hobby Ideas.md",
-    "Research/Ideas/Blog Ideas.md",
-    "Reference/Jekyll/Minima/Configuration.md",
-    "Research/Notes/Relearning Vim.md",
-    "Blog/README.md",
-    "Research/Ideas/Things to Research.md",
     "Blog/_drafts",
     "Research/Notes/F#",
     "Research/Reading List/Nonfiction",
-    "Research/Reading List/Fiction",
-    "Research/Reading List",
     "Untitled.canvas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",

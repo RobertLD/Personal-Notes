@@ -1,5 +1,5 @@
 
-# 2024-01-27
+# 2024-01-28
 
 ## Daily Tasks
 Tasks to complete today
@@ -11,11 +11,7 @@ Tasks to work on, start or otherwise think about today
 
 ## Notes
 
-[[Relearning Vim]]
-
-
-
-
+- Installed Omnivore today, seems to be a really good application for keeping a living web-reading list. I added the folder here [[Epigrams in Programming - Computer Science | Omnivore]].
 
 
 #### Notes Modified Today
