@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Notes/Automating Alec's Workflow.md",
+                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Notes/Automating Alec's Workflow.md",
+                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Notes/Automating Alec's Workflow.md",
+                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Notes/Automating Alec's Workflow.md"
+                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md"
               }
             }
           }
@@ -151,8 +151,11 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_posts/2024-01-27-Learning-Vim-again....md",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Research/Notes/Automating Alec's Workflow.md",
+    "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/attached/Pasted image 20240128095538.png",
     "Blog/_posts/attached/Pasted image 20240128095330.png",
     "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
@@ -163,9 +166,7 @@
     "Daily/2024/January/26-Fri.md",
     "Daily/2024/January/28-Sun.md",
     "Research/Things I've Learned/What-I've-Learned-in-January.md",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
-    "Blog/_posts/2024-01-27-Learning-Vim-again....md",
     "Daily/2024/January/Omnivore.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
     "Research/Things I've Learned/`.md",
@@ -186,7 +187,6 @@
     "Blog/_includes/ana.md",
     "Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
     "Blog/_includes",
-    "Blog/index.md",
     "Blog/_pages",
     "Blog/_drafts",
     "Research/Notes/F#",

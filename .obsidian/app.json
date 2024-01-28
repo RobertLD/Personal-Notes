@@ -6,5 +6,6 @@
   "attachmentFolderPath": "./attached",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
