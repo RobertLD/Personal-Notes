@@ -3,7 +3,8 @@
 
 ## Daily Tasks
 Tasks to complete today
-- [ ]
+- [ ] Add a couple projects to the project list on the blog
+- [ ] Start implementing vim motions in obsidian
 
 ## Other Tasks
 Tasks to work on, start or otherwise think about today

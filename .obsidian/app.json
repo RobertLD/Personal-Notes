@@ -1,6 +1,6 @@
 {
   "showLineNumber": true,
-  "vimMode": false,
+  "vimMode": true,
   "livePreview": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "./attached",
