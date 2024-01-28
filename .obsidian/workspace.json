@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+                "file": "Daily/2024/January/28-Sun.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+                "file": "Daily/2024/January/28-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+                "file": "Daily/2024/January/28-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md"
+                "file": "Daily/2024/January/28-Sun.md"
               }
             }
           }
@@ -151,45 +151,45 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
-    "Blog/_posts/attached/Pasted.md",
-    "Research/Saved for Later/Automate the Boring Stuff with Python.pdf",
     "Blog/_posts/2024-01-27-Learning-Vim-again....md",
-    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
-    "Research/Notes/Automating Alec's Workflow.md",
+    "Blog/_original/2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_posts/2024-01-28-2024-01-28-2024-01-28-2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Daily/2024/January/28-Sun.md",
+    "Blog/_posts/attached/Pasted.md",
+    "Blog/_original/2024-01-28-2024-01-26-Collection-of-Project-Ideas.md",
+    "Blog/_original/2024-01-28-2024-01-28-2024-01-27-Learning-Vim-again....md",
+    "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-27-Learning-Vim-again....md",
+    "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-26-Pull-Request-Check-List.md",
+    "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-26-Collection-of-Project-Ideas.md",
+    "Blog/_original/2024-01-28-2024-01-28-2024-01-26-Collection-of-Project-Ideas.md",
+    "Blog/_original/2024-01-28-2024-01-28-2024-01-26-Pull-Request-Check-List.md",
+    "Blog/_original/2024-01-28-2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_original/2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_original/2024-01-28-2024-01-27-Learning-Vim-again....md",
+    "Blog/_original/2024-01-28-2024-01-26-Pull-Request-Check-List.md",
+    "Blog/_posts/2024-01-28-2024-01-28-2024-01-28-2024-01-28-2024-01-27-Learning-Vim-again....md",
+    "Blog/_posts/2024-01-28-2024-01-28-2024-01-28-2024-01-28-2024-01-26-Pull-Request-Check-List.md",
+    "Blog/_posts/2024-01-28-2024-01-28-2024-01-28-2024-01-28-2024-01-26-Collection-of-Project-Ideas.md",
+    "Blog/_original/2024-01-26-Collection-of-Project-Ideas.md",
+    "Blog/_original/2024-01-26-Pull-Request-Check-List.md",
+    "Blog/_original/2024-01-27-Learning-Vim-again....md",
+    "Blog/_original",
+    "Blog/attachments",
+    "Research/Saved for Later/Automate the Boring Stuff with Python.pdf",
     "Blog/_posts/attached/Pasted image 20240128095538.png",
     "Blog/_posts/attached/Pasted image 20240128095330.png",
-    "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
     "Blog/_posts/attached/Pasted image 20240128094808.png",
     "Blog/_posts/attached",
-    "Daily/2024/January/21-Sun.md",
-    "Daily/2024/January/22-Mon.md",
-    "Daily/2024/January/26-Fri.md",
-    "Daily/2024/January/28-Sun.md",
-    "Research/Things I've Learned/What-I've-Learned-in-January.md",
-    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
-    "Daily/2024/January/Omnivore.md",
-    "Research/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
-    "Research/Things I've Learned/`.md",
     "Research/Saved for Later/Omnivore/2024-01-28",
     "Research/Saved for Later/Omnivore",
-    "Daily/2024/January/27-Sat.md",
-    "Reference/Obsidian/templates/what_i_learned.md",
-    "Research/Things I've Learned/What-I've-Learned-in January.md",
-    "Daily/2024/January/Things I Learned.md",
-    "Reference/Obsidian/templates/template_daily_notes.md",
-    "Reference/Obsidian/templates/blog_post_template.md",
-    "Reference/Obsidian/templates/Untitled.md",
     "Research/Things I've Learned",
-    "Research/Notes/F#/Getting Started with F-Sharp.md",
-    "Reference/Jekyll/Documentation.md",
     "Blog/_includes/analytics.html",
     "Blog/_includes/head.html",
-    "Blog/_includes/ana.md",
     "Blog/_includes",
-    "Blog/_pages",
-    "Blog/_drafts",
     "Untitled.canvas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
