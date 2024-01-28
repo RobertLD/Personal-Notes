@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/28-Sun.md",
+                "file": "Blog/_drafts/2024-01-28-Using-Obsidian-for-everything.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/January/28-Sun.md",
+                "file": "Blog/_drafts/2024-01-28-Using-Obsidian-for-everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/January/28-Sun.md",
+                "file": "Blog/_drafts/2024-01-28-Using-Obsidian-for-everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/January/28-Sun.md"
+                "file": "Blog/_drafts/2024-01-28-Using-Obsidian-for-everything.md"
               }
             }
           }
@@ -151,8 +151,10 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
+    "Blog/_posts/2024-01-27-Learning-Vim-again....md",
+    "Blog/_drafts/2024-01-28-Using-Obsidian-for-everything.md",
     "Daily/2024/January/28-Sun.md",
+    "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
     "Daily/2024/January/Omnivore.md",
     "Daily/2024/January/26-Fri.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
@@ -180,10 +182,8 @@
     "Blog/index.md",
     "Blog/_drafts/index.md",
     "Blog/_pages",
-    "Blog/_posts/2024-01-27-Learning-Vim-again....md",
     "conflict-files-obsidian-git.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
-    "Research/Ideas/Programming Project Ideas.md",
     "Blog/_drafts",
     "Research/Notes/F#",
     "Research/Reading List/Nonfiction",
