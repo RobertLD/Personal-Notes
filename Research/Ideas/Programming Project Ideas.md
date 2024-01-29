@@ -1,1 +1,1 @@
-[[../../Blog/_posts/2024-01-26-Collection-of-Project-Ideas 1]]
+[[../../Blog/_posts/2024-01-26-Collection-of-Project-Ideas]]
