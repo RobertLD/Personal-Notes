@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+                "file": "Daily/2024/January/29-Mon.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "omn",
+                "query": "font",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 559
+    "width": 319
   },
   "right": {
     "id": "b9de8df491334508",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+                "file": "Daily/2024/January/29-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+                "file": "Daily/2024/January/29-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md"
+                "file": "Daily/2024/January/29-Mon.md"
               }
             }
           }
@@ -150,8 +151,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0eb6044f549f3387",
+  "active": "613da15c37ea1d27",
   "lastOpenFiles": [
+    "Daily/2024/January/28-Sun.md",
+    "Daily/2024/January/29-Mon.md",
+    "Research/Saved for Later/Omnivore/2024-01-28/How to Resize Images in Jekyll Markdown - Sean Osier.md",
+    "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
+    "Research/Saved for Later/Omnivore/2024-01-28/Minima & Typography - Randomizer.md",
     "Blog/_sass/minima/custom-styles.scss",
     "Blog/_sass/minima/custom-variables.scss",
     "Blog/_sass/minima",
@@ -162,12 +169,8 @@
     "Blog/assets/styles.scss",
     "Blog/assets/css/styles/styles.scss",
     "Blog/assets/css/styles/styles.css",
-    "Blog/assets/css/styles",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
-    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-    "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
-    "Daily/2024/January/28-Sun.md",
     "Blog/_posts/2024-01-28-2024-01-26-Collection-of-Project-Ideas-1.md",
     "Blog/_posts/2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List-1.md",
