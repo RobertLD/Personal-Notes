@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Blog/_drafts/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Blog/_drafts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Blog/_drafts/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Blog/_drafts/Untitled.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
+    "README.md",
+    "Blog/_drafts/Untitled.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
@@ -189,8 +191,6 @@
     "Blog/_original/2024-01-28-2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_original/2024-01-28-2024-01-28-2024-01-27-Learning-Vim-again....md",
     "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
-    "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-27-Learning-Vim-again....md",
-    "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-26-Pull-Request-Check-List.md",
     "Untitled.canvas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
