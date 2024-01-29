@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
+                "file": "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
     "Research/Saved for Later/Omnivore/2024-01-28/How to Resize Images in Jekyll Markdown - Sean Osier.md",
@@ -171,7 +172,6 @@
     "Blog/assets/css/styles/styles.scss",
     "Blog/assets/css/styles/styles.css",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_posts/2024-01-28-2024-01-26-Collection-of-Project-Ideas-1.md",
     "Blog/_posts/2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List-1.md",
