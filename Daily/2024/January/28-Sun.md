@@ -3,13 +3,12 @@
 
 ## Daily Tasks
 Tasks to complete today
-- [ ] Add a couple projects to the project list on the blog
+- [x] Add a couple projects to the project list on the blog
 - [x] Start implementing vim motions in obsidian
 	- Vim mode is a bit strange in obsidian. It appears that it doesn't tell you what mode your in which stinks kind of?
 - [x] Install a better theme than the default (cappucine?)
 ## Other Tasks
 Tasks to work on, start or otherwise think about today
-- [ ]
 
 ## Notes
 
