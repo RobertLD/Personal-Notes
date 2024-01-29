@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/29-Mon.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/January/29-Mon.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/January/29-Mon.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/January/29-Mon.md"
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
               }
             }
           }
@@ -153,10 +152,12 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Daily/2024/January/28-Sun.md",
-    "Daily/2024/January/29-Mon.md",
-    "Research/Saved for Later/Omnivore/2024-01-28/How to Resize Images in Jekyll Markdown - Sean Osier.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+    "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
+    "Research/Saved for Later/Omnivore/2024-01-28/How to Resize Images in Jekyll Markdown - Sean Osier.md",
+    "Research/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
+    "Daily/2024/January/29-Mon.md",
+    "Daily/2024/January/28-Sun.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Minima & Typography - Randomizer.md",
     "Blog/_sass/minima/custom-styles.scss",
@@ -190,7 +191,6 @@
     "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-27-Learning-Vim-again....md",
     "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-26-Pull-Request-Check-List.md",
-    "Blog/_original/2024-01-28-2024-01-28-2024-01-28-2024-01-26-Collection-of-Project-Ideas.md",
     "Untitled.canvas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
