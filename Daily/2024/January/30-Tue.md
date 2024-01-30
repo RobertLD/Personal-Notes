@@ -3,7 +3,7 @@
 
 ## Daily Tasks
 Tasks to complete today
-- [ ]
+- [ ] Add some additional project ideas to the project post
 
 ## Other Tasks
 Tasks to work on, start or otherwise think about today
