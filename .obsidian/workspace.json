@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
+                "file": "Daily/2024/January/30-Tue.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
+                "file": "Daily/2024/January/30-Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
+                "file": "Daily/2024/January/30-Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md"
+                "file": "Daily/2024/January/30-Tue.md"
               }
             }
           }
@@ -158,13 +158,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-omnivore:Omnivore": false,
       "publish:Publish changes...": false
     }
   },
   "active": "af1031dde5587e90",
   "lastOpenFiles": [
+    "Daily/2024/January/30-Tue.md",
     "Research/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
     "Research/Saved for Later/Omnivore/2024-01-29",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
@@ -203,7 +202,6 @@
     "Blog/_posts/attached/2024-01-28-2024-01-28-2024-01-28-2024-01-28-2024-01-28-Pasted.md",
     "Blog/_posts/attached/2024-01-28-Pasted.md",
     "Blog/_posts/2024-01-28-2024-01-28-2024-01-28-2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
-    "Blog/_original/2024-01-28-2024-01-26-Collection-of-Project-Ideas.md",
     "Untitled.canvas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
