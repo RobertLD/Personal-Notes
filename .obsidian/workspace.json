@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md"
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
               }
             }
           }
@@ -165,6 +165,10 @@
   },
   "active": "af1031dde5587e90",
   "lastOpenFiles": [
+    "Daily/2024/January/31-Wed.md",
+    "Research/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
+    "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
+    "Research/Saved for Later/Omnivore/2024-01-31",
     "Daily/2024/January/30-Tue.md",
     "Blog/Mobilemerge.yml",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
@@ -173,7 +177,6 @@
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
-    "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
     "Daily/2024/January/29-Mon.md",
     "conflict-files-obsidian-git.md",
     "README.md",
@@ -190,7 +193,6 @@
     "Blog/_includes/custom-head.html",
     "Blog/_includes/custom_head.html",
     "Blog/assets/main.scss",
-    "Blog/assets/styles.scss",
     "Blog/_posts/2024-01-28-2024-01-26-Collection-of-Project-Ideas-1.md",
     "Blog/_posts/2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List-1.md",
@@ -202,8 +204,6 @@
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
-    "Blog/_posts/attached/2024-01-28-2024-01-28-2024-01-28-2024-01-28-2024-01-28-Pasted.md",
-    "Blog/_posts/attached/2024-01-28-Pasted.md",
     "Untitled.canvas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
