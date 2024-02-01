@@ -10,6 +10,7 @@ Tasks to work on, start or otherwise think about today
 - [ ]
 
 ## Notes
+- Perhaps I should brush up on my leetcode problem solving. I haven't done them in forever.
 
 
 
@@ -17,6 +18,5 @@ Tasks to work on, start or otherwise think about today
 #### Notes Modified Today
 ```dataview
 list
-WHERE datemodified = this.file.day or datecreated = this.file.day 
+WHERE datemodified = this.file.day or datecreated = this.file.day
 ```
-

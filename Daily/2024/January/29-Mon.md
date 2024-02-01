@@ -4,10 +4,10 @@
 ## Daily Tasks
 Tasks to complete today
 - [x] pickup medicine
-- [ ] get groceries
-- [ ] clean house
-- [ ] cook dinner
-- [ ] bri gift
+- [x] get groceries
+- [x] clean house
+- [x] cook dinner
+- [x] bri gift
 
 ## Other Tasks
 Tasks to work on, start or otherwise think about today

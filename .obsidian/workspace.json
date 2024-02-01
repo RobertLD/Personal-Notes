@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/February/01-Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/February/01-Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/February/01-Thu.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -163,13 +161,16 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "af1031dde5587e90",
+  "active": "0eb6044f549f3387",
   "lastOpenFiles": [
+    "Daily/2024/February/01-Thu.md",
+    "conflict-files-obsidian-git.md",
+    "Research/Notes/Notes on 2023 Admired and Desired.md",
+    "Research/Notes/Elixir.md",
     "Blog/Mobilemerge.yml",
     "Research/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
     "Research/Saved for Later/Omnivore/2024-01-31",
     "Daily/2024/January/31-Wed.md",
-    "Daily/2024/February/01-Thu.md",
     "Daily/2024/February",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/January/30-Tue.md",
@@ -190,11 +191,9 @@
     "Blog/_sass",
     "Blog/_posts",
     "Blog/_includes/footer.html",
-    "Blog/_includes/custom-head.html",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Blog/README.md",
     "Research/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
-    "conflict-files-obsidian-git.md",
     "README.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
     "Research/Saved for Later/Omnivore/2024-01-28/How to Resize Images in Jekyll Markdown - Sean Osier.md",
@@ -203,7 +202,6 @@
     "Research/Saved for Later/Omnivore/2024-01-28/Minima & Typography - Randomizer.md",
     "Blog/_posts/2024-01-28-2024-01-26-Collection-of-Project-Ideas-1.md",
     "Blog/_posts/2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
-    "Blog/_posts/2024-01-26-Pull-Request-Check-List-1.md",
     "Untitled.canvas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
