@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/29-Mon.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "af1031dde5587e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/February/01-Thu.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,52 +143,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "obsidian-omnivore:Omnivore": false
+      "obsidian-omnivore:Omnivore": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "0eb6044f549f3387",
+  "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Daily/2024/February/01-Thu.md",
-    "conflict-files-obsidian-git.md",
-    "Research/Notes/Notes on 2023 Admired and Desired.md",
-    "Research/Notes/Elixir.md",
-    "Blog/Mobilemerge.yml",
-    "Research/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
-    "Research/Saved for Later/Omnivore/2024-01-31",
-    "Daily/2024/January/31-Wed.md",
-    "Daily/2024/February",
+    "Research/Ideas/Things to Research.md",
+    "Research/Ideas/Blog Ideas.md",
+    "Research/Ideas/Programming Project Ideas.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-    "Daily/2024/January/30-Tue.md",
+    "Daily/2024/January/31-Wed.md",
+    "Research/Notes/Notes on 2023 Admired and Desired.md",
     "Daily/2024/January/29-Mon.md",
+    "Research/Notes/Elixir.md",
+    "Research/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
+    "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
+    "Research/Saved for Later/Omnivore/2024-01-31",
+    "Daily/2024/January/30-Tue.md",
+    "Blog/Mobilemerge.yml",
+    "Research/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
+    "Research/Saved for Later/Omnivore/2024-01-29",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
-    "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
-    "Research/Ideas/Blog Ideas.md",
-    "Research/Notes/Relearning Vim.md",
-    "Blog/attached/tasks.png",
-    "Blog/attached/omnivore.png",
-    "Blog/attached/graph.png",
-    "Blog/attached",
-    "Blog/_sass/minima/custom-variables.scss",
-    "Blog/_sass/minima/custom-styles.scss",
-    "Blog/_sass/minima",
-    "Blog/_sass",
-    "Blog/_posts",
-    "Blog/_includes/footer.html",
-    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
-    "Blog/README.md",
-    "Research/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
+    "Blog/2024-01-26-Collection-of-Project-Ideas.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
     "Research/Saved for Later/Omnivore/2024-01-28/How to Resize Images in Jekyll Markdown - Sean Osier.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
     "Daily/2024/January/28-Sun.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Minima & Typography - Randomizer.md",
+    "Blog/_sass/minima/custom-styles.scss",
+    "Blog/_sass/minima/custom-variables.scss",
+    "Blog/_sass/minima",
+    "Blog/_sass",
+    "Blog/_includes/custom-head.html",
+    "Blog/_includes/custom_head.html",
+    "Blog/assets/main.scss",
     "Blog/_posts/2024-01-28-2024-01-26-Collection-of-Project-Ideas-1.md",
     "Blog/_posts/2024-01-28-2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List-1.md",
+    "Blog/attached/graph.png",
+    "Blog/attached/omnivore.png",
+    "Blog/attached/tasks.png",
     "Untitled.canvas",
     "Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Reference/Obsidian/attached/Pasted image 20240121114824.png",
