@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Notes/Notes on 2023 Admired and Desired.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Notes/Notes on 2023 Admired and Desired.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Notes/Notes on 2023 Admired and Desired.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Notes/Notes on 2023 Admired and Desired.md"
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
               }
             }
           }
@@ -165,8 +165,8 @@
   },
   "active": "af1031dde5587e90",
   "lastOpenFiles": [
-    "Research/Notes/Elixir.md",
     "Research/Notes/Notes on 2023 Admired and Desired.md",
+    "Research/Notes/Elixir.md",
     "Daily/2024/January/31-Wed.md",
     "Research/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
     "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",

@@ -23,4 +23,8 @@ Going through the most admired and desired languages from Stackoverflow's 2023 s
 21. R - Good lang, python better
 22. Scala - Not sure really. I'd like to explore it more
 23. Julia - This one is really exciting, it's just slow moving and there is little community support
-24. F# - C# but functional, I'm very excited by this but it's 
+24. F# - C# but functional, I'm very excited by this but it's soo microsofty
+25. Delphi - Style points, not much else
+26. Clojure - I'd like to try this one out
+27. Perl/Raku - I'd love to write read only code just for shits and giggles
+28. 
