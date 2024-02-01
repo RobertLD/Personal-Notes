@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/January/29-Mon.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "af1031dde5587e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-                "mode": "source",
+                "file": "Research/Notes/Notes on 2023 Admired and Desired.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Research/Notes/Notes on 2023 Admired and Desired.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Research/Notes/Notes on 2023 Admired and Desired.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
+                "file": "Research/Notes/Notes on 2023 Admired and Desired.md"
               }
             }
           }
@@ -163,8 +150,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "af1031dde5587e90",
+  "active": "613da15c37ea1d27",
   "lastOpenFiles": [
+    "Daily/2024/January/29-Mon.md",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Research/Notes/Notes on 2023 Admired and Desired.md",
     "Research/Notes/Elixir.md",
     "Daily/2024/January/31-Wed.md",
@@ -173,13 +162,11 @@
     "Research/Saved for Later/Omnivore/2024-01-31",
     "Daily/2024/January/30-Tue.md",
     "Blog/Mobilemerge.yml",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Research/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
     "Research/Saved for Later/Omnivore/2024-01-29",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
-    "Daily/2024/January/29-Mon.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "Blog/2024-01-26-Collection-of-Project-Ideas.md",
