@@ -10,6 +10,7 @@ Tasks to work on, start or otherwise think about today
 - [ ]
 
 ## Notes
+- Perhaps I should brush up on my leetcode problem solving. I haven't done them in forever.
 
 
 
