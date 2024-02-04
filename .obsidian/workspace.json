@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/February/04-Sun.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/February/04-Sun.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/February/04-Sun.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/February/04-Sun.md"
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/February/04-Sun.md",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "conflict-files-obsidian-git.md",
     "Daily/2024/February/02-Fri.md",
