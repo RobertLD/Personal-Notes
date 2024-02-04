@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "16de9464c48e10e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "acc992ca007274c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+                "file": "Daily/2024/February/04-Sun.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+                "file": "Daily/2024/February/04-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+                "file": "Daily/2024/February/04-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md"
+                "file": "Daily/2024/February/04-Sun.md"
               }
             }
           }
@@ -175,10 +150,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0eb6044f549f3387",
+  "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Daily/2024/February/04-Sun.md",
+    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+    "conflict-files-obsidian-git.md",
     "Daily/2024/February/02-Fri.md",
     "Daily/2024/February/01-Thu.md",
     "Daily/2024/February",
@@ -205,14 +182,12 @@
     "Research/Saved for Later/Omnivore/2024-01-28/How to Resize Images in Jekyll Markdown - Sean Osier.md",
     "Research/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
     "Daily/2024/January/28-Sun.md",
-    "Research/Saved for Later/Omnivore/2024-01-28/Minima & Typography - Randomizer.md",
     "Blog/_sass/minima/custom-styles.scss",
     "Blog/_sass/minima/custom-variables.scss",
     "Blog/_sass/minima",
     "Blog/_sass",
     "Blog/_includes/custom-head.html",
     "Blog/_includes/custom_head.html",
-    "Blog/_posts/2024-01-28-2024-01-26-Collection-of-Project-Ideas-1.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
