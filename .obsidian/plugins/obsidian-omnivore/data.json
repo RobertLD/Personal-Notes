@@ -17,7 +17,7 @@
   "version": "1.9.1",
   "isSingleFile": false,
   "frequency": 5,
-  "intervalId": 10,
+  "intervalId": 202,
   "frontMatterVariables": [],
   "frontMatterTemplate": ""
 }

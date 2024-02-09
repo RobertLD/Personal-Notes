@@ -14,6 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/2024/February/09-Fri.md",
+                "file": "Daily/2024/February/08-Thu.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/February/09-Fri.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/February/09-Fri.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/February/09-Fri.md"
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
               }
             }
           }
@@ -150,18 +151,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "613da15c37ea1d27",
+  "active": "0eb6044f549f3387",
   "lastOpenFiles": [
-    "Research/Saved for Later/Omnivore/2024-02-07/Keeping code simple- moving fast by avoiding over-engineering.md",
-    "Research/Saved for Later/Omnivore/2024-02-07",
-    "Research/Saved for Later/Omnivore/2024-02-06/Go 1.22 Release Notes - The Go Programming Language.md",
-    "Research/Saved for Later/Omnivore/2024-02-06/cfahlgren1-natural-sql- A series of top performing Text to SQL LLMs.md",
-    "Research/Saved for Later/Omnivore/2024-02-06",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-    "Daily/2024/February/09-Fri.md",
     "Daily/2024/February/04-Sun.md",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
-    "conflict-files-obsidian-git.md",
     "Daily/2024/February/02-Fri.md",
     "Daily/2024/February/01-Thu.md",
     "Daily/2024/February",
@@ -183,7 +177,6 @@
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "README.md",
-    "Blog/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_sass/minima/custom-styles.scss",
     "Blog/_sass/minima/custom-variables.scss",
     "Blog/_sass/minima",
