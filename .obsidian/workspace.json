@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/February/09-Fri.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/February/09-Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/February/09-Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
+                "file": "Daily/2024/February/09-Fri.md"
               }
             }
           }
@@ -152,8 +152,14 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
-    "Daily/2024/February/04-Sun.md",
+    "Research/Saved for Later/Omnivore/2024-02-07/Keeping code simple- moving fast by avoiding over-engineering.md",
+    "Research/Saved for Later/Omnivore/2024-02-07",
+    "Research/Saved for Later/Omnivore/2024-02-06/Go 1.22 Release Notes - The Go Programming Language.md",
+    "Research/Saved for Later/Omnivore/2024-02-06/cfahlgren1-natural-sql- A series of top performing Text to SQL LLMs.md",
+    "Research/Saved for Later/Omnivore/2024-02-06",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Daily/2024/February/09-Fri.md",
+    "Daily/2024/February/04-Sun.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "conflict-files-obsidian-git.md",
     "Daily/2024/February/02-Fri.md",
@@ -178,16 +184,10 @@
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "README.md",
     "Blog/2024-01-26-Collection-of-Project-Ideas.md",
-    "Research/Saved for Later/Omnivore/2024-01-28/Long Term Refactors - Max Chernyak.md",
-    "Research/Saved for Later/Omnivore/2024-01-28/How to Resize Images in Jekyll Markdown - Sean Osier.md",
-    "Research/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
-    "Daily/2024/January/28-Sun.md",
     "Blog/_sass/minima/custom-styles.scss",
     "Blog/_sass/minima/custom-variables.scss",
     "Blog/_sass/minima",
     "Blog/_sass",
-    "Blog/_includes/custom-head.html",
-    "Blog/_includes/custom_head.html",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
