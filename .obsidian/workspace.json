@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/February/10-Sat.md",
+                "file": "Resources/Notes/Elixir/Creating an Elixir Project.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/February/10-Sat.md",
+                "file": "Resources/Notes/Elixir/Creating an Elixir Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/February/10-Sat.md",
+                "file": "Resources/Notes/Elixir/Creating an Elixir Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/February/10-Sat.md"
+                "file": "Resources/Notes/Elixir/Creating an Elixir Project.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "b1fc5073e37d5883",
   "lastOpenFiles": [
+    "Resources/Notes/MVC Architecture Pattern.md",
+    "Resources/Notes/Elixir/Creating an Elixir Project.md",
     "Daily/2024/February/10-Sat.md",
     "Resources/Notes/Elixir/Setting up elixir on windows.md",
     "Archives",
@@ -186,14 +188,12 @@
     "Resources/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
     "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
     "Resources/Saved for Later/Omnivore/2024-01-31",
-    "Daily/2024/January/30-Tue.md",
-    "Resources/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
     "Untitled.canvas",
-    "Reference/Obsidian/attached/Pasted image 20240121115055.png",
-    "Reference/Obsidian/attached/Pasted image 20240121114824.png",
-    "Reference/Obsidian/attached/Pasted image 20240121114558.png"
+    "Resources/Reference/Obsidian/attached/Pasted image 20240121115055.png",
+    "Resources/Reference/Obsidian/attached/Pasted image 20240121114824.png",
+    "Resources/Reference/Obsidian/attached/Pasted image 20240121114558.png"
   ]
 }
