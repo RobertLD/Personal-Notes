@@ -36,10 +36,20 @@ Where you write tests
 3. Create an html page in the html folder matching the controller name
 4. You can pass data to views from within the controller by passing it to the view in the render method
    - Uses the template engine eex
-   - You can return JSOn
+   - You can return JSON by using JSON instead of render
 ### Limitations
 - The templating engine is not as powerful as using something like react
 - Liveview is another alternative to keep all of the logic in the backend
+### Database integration
+- Build a scaffolding for the database
+- Build a scaffolded model for a router by running 
+	- `mix phx.gen.json Posts <name> Post body:string title:string`
+	- The first post is the name of the context (model), Schema describes the structure (second), third (table name)
+### Api scope
+- Define a new scope under `"/api"`
+- Define a pipe_through to pass data through middleware, etc `pipe_through :api`
+- You can run migrations from within elixir to update the structure of the database
+- Run migrations `mix ecto.migrate`
 
 
 
