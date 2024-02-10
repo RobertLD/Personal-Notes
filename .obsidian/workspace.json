@@ -11,8 +11,12 @@
             "id": "b1fc5073e37d5883",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/February/10-Sat.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -146,10 +150,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0eb6044f549f3387",
+  "active": "b1fc5073e37d5883",
   "lastOpenFiles": [
-    "Resources/Notes/Elixir/Setting up elixir on windows.md",
     "Daily/2024/February/10-Sat.md",
+    "Resources/Notes/Elixir/Setting up elixir on windows.md",
     "Archives",
     "Resources",
     "Areas",
