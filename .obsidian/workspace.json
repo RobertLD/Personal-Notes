@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/February/10-Sat.md",
+                "file": "Resources/Notes/Elixir/Setting up elixir on windows.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/February/10-Sat.md",
+                "file": "Resources/Notes/Elixir/Setting up elixir on windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/February/10-Sat.md",
+                "file": "Resources/Notes/Elixir/Setting up elixir on windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/February/10-Sat.md"
+                "file": "Resources/Notes/Elixir/Setting up elixir on windows.md"
               }
             }
           }
