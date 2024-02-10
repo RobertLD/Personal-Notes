@@ -24,4 +24,10 @@ Application code
 ### test
 Where you write tests
 
+### Where do we find what pages are available to be navigated to?
+`lib/app_name_web/router.ex`
+
+
+
+
 
