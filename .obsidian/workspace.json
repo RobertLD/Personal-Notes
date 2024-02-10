@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c6b69974608d82a0",
+        "id": "79bf9910a4ec932c",
         "type": "tabs",
         "children": [
           {
-            "id": "613da15c37ea1d27",
+            "id": "b1fc5073e37d5883",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Notes/Elixir/Untitled.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Notes/Elixir/Untitled.md",
+                "file": "Daily/2024/February/10-Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Notes/Elixir/Untitled.md",
+                "file": "Daily/2024/February/10-Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Notes/Elixir/Untitled.md"
+                "file": "Daily/2024/February/10-Sat.md"
               }
             }
           }
@@ -150,44 +146,44 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "613da15c37ea1d27",
+  "active": "0eb6044f549f3387",
   "lastOpenFiles": [
-    "Research/Notes/Elixir/Elixir Overview.md",
-    "Research/Notes/Elixir/Untitled.md",
-    "Research/Notes/Elixir",
+    "Resources/Notes/Elixir/Setting up elixir on windows.md",
+    "Daily/2024/February/10-Sat.md",
+    "Archives",
+    "Resources",
+    "Areas",
+    "Projects",
+    "Resources/Notes/Elixir/Elixir Overview.md",
+    "Resources/Notes/Elixir",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-    "Research/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
-    "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
-    "Research/Saved for Later/Omnivore/2024-02-09",
+    "Resources/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
+    "Resources/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
+    "Resources/Saved for Later/Omnivore/2024-02-09",
     "conflict-files-obsidian-git.md",
     "Daily/2024/February/09-Fri.md",
     "Daily/2024/February/08-Thu.md",
-    "Research/Saved for Later/Omnivore/2024-02-07/Keeping code simple- moving fast by avoiding over-engineering.md",
-    "Research/Saved for Later/Omnivore/2024-02-07",
-    "Research/Saved for Later/Omnivore/2024-02-06/Go 1.22 Release Notes - The Go Programming Language.md",
-    "Research/Saved for Later/Omnivore/2024-02-06/cfahlgren1-natural-sql- A series of top performing Text to SQL LLMs.md",
-    "Research/Saved for Later/Omnivore/2024-02-06",
+    "Resources/Saved for Later/Omnivore/2024-02-07/Keeping code simple- moving fast by avoiding over-engineering.md",
+    "Resources/Saved for Later/Omnivore/2024-02-07",
+    "Resources/Saved for Later/Omnivore/2024-02-06/Go 1.22 Release Notes - The Go Programming Language.md",
+    "Resources/Saved for Later/Omnivore/2024-02-06/cfahlgren1-natural-sql- A series of top performing Text to SQL LLMs.md",
+    "Resources/Saved for Later/Omnivore/2024-02-06",
     "Daily/2024/February/04-Sun.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Daily/2024/February/02-Fri.md",
     "Daily/2024/February/01-Thu.md",
     "Daily/2024/February",
-    "Research/Ideas/Things to Research.md",
-    "Research/Ideas/Blog Ideas.md",
-    "Research/Ideas/Programming Project Ideas.md",
+    "Resources/Ideas/Things to Research.md",
+    "Resources/Ideas/Blog Ideas.md",
+    "Resources/Ideas/Programming Project Ideas.md",
     "Daily/2024/January/31-Wed.md",
-    "Research/Notes/Notes on 2023 Admired and Desired.md",
+    "Resources/Notes/Notes on 2023 Admired and Desired.md",
     "Daily/2024/January/29-Mon.md",
-    "Research/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
+    "Resources/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
     "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
-    "Research/Saved for Later/Omnivore/2024-01-31",
+    "Resources/Saved for Later/Omnivore/2024-01-31",
     "Daily/2024/January/30-Tue.md",
-    "Blog/Mobilemerge.yml",
-    "Research/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
-    "Research/Saved for Later/Omnivore/2024-01-29",
-    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
-    "Blog/_sass/minima/custom-styles.scss",
-    "Blog/_sass/minima/custom-variables.scss",
+    "Resources/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",

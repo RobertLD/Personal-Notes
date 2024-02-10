@@ -12,7 +12,7 @@ Tasks to work on, start or otherwise think about today
 
 ## Notes
 
-- Installed Omnivore today, seems to be a really good application for keeping a living web-reading list. I added the folder here [[Epigrams in Programming - Computer Science | Omnivore]].
+- Installed Omnivore today, seems to be a really good application for keeping a living web-reading list. I added the folder here [[../../../Resources/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science| Omnivore]].
 - Recently installed a new font that I like and will be using in my Obsidian from now on [JetBrainsMono](https://www.jetbrains.com/lp/mono/)
 - Recently found a fricken fantastic font called Atkinson Hyperlegible font. Highly recommend to make reading as easy as possible
 

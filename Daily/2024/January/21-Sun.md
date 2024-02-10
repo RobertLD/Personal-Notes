@@ -21,8 +21,8 @@
 	- [x] Update tagline and interests to reflect what I am currently interested in
 	- [x] Add skills if there is anything new to add
 - [x] Create a reading list in obsidian to include both nonfiction and fiction titles
-	- [[Software]]
-	- [[Fantasy]]
+	- [[../../../Resources/Reading List/Nonfiction/Software]]
+	- [[../../../Resources/Reading List/Fiction/Fantasy]]
 
 ## Notes
 
