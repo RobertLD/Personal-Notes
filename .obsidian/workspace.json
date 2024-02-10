@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Notes/Elixir/Creating an Elixir Project.md",
+                "file": "Resources/Notes/Elixir/Phoenix.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Notes/Elixir/Creating an Elixir Project.md",
+                "file": "Resources/Notes/Elixir/Phoenix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Notes/Elixir/Creating an Elixir Project.md",
+                "file": "Resources/Notes/Elixir/Phoenix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Notes/Elixir/Creating an Elixir Project.md"
+                "file": "Resources/Notes/Elixir/Phoenix.md"
               }
             }
           }
@@ -152,15 +152,17 @@
   },
   "active": "b1fc5073e37d5883",
   "lastOpenFiles": [
-    "Resources/Notes/MVC Architecture Pattern.md",
+    "Resources/Notes/Elixir/Elixir Overview.md",
+    "Resources/Notes/Elixir/Phoenix.md",
+    "Resources/Notes/Automating Alec's Workflow.md",
     "Resources/Notes/Elixir/Creating an Elixir Project.md",
+    "Resources/Notes/MVC Architecture Pattern.md",
     "Daily/2024/February/10-Sat.md",
     "Resources/Notes/Elixir/Setting up elixir on windows.md",
     "Archives",
     "Resources",
     "Areas",
     "Projects",
-    "Resources/Notes/Elixir/Elixir Overview.md",
     "Resources/Notes/Elixir",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Resources/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
@@ -185,8 +187,6 @@
     "Daily/2024/January/31-Wed.md",
     "Resources/Notes/Notes on 2023 Admired and Desired.md",
     "Daily/2024/January/29-Mon.md",
-    "Resources/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
-    "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
     "Resources/Saved for Later/Omnivore/2024-01-31",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
