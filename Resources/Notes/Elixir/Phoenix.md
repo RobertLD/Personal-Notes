@@ -27,6 +27,14 @@ Where you write tests
 ### Where do we find what pages are available to be navigated to?
 `lib/app_name_web/router.ex`
 
+### Where are the HTML files stored?
+`lib/controllers/name_html/home.html.heex`
+
+### Adding a new Page?
+1. Modify the router by adding a new router
+2. Add a function to the controller to handle that route
+3. Create an html page in the html folder matching the controller name
+
 
 
 
