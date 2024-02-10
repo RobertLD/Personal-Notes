@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Research/Notes/Elixir/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Research/Notes/Elixir/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Research/Notes/Elixir/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
+                "file": "Research/Notes/Elixir/Untitled.md"
               }
             }
           }
@@ -152,6 +152,10 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
+    "Research/Notes/Elixir/Elixir Overview.md",
+    "Research/Notes/Elixir/Untitled.md",
+    "Research/Notes/Elixir",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Research/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
     "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
     "Research/Saved for Later/Omnivore/2024-02-09",
@@ -163,7 +167,6 @@
     "Research/Saved for Later/Omnivore/2024-02-06/Go 1.22 Release Notes - The Go Programming Language.md",
     "Research/Saved for Later/Omnivore/2024-02-06/cfahlgren1-natural-sql- A series of top performing Text to SQL LLMs.md",
     "Research/Saved for Later/Omnivore/2024-02-06",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/February/04-Sun.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Daily/2024/February/02-Fri.md",
@@ -175,7 +178,6 @@
     "Daily/2024/January/31-Wed.md",
     "Research/Notes/Notes on 2023 Admired and Desired.md",
     "Daily/2024/January/29-Mon.md",
-    "Research/Notes/Elixir.md",
     "Research/Saved for Later/Omnivore/2024-01-31/The Twelve-Factor App.md",
     "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
     "Research/Saved for Later/Omnivore/2024-01-31",
@@ -184,10 +186,8 @@
     "Research/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
     "Research/Saved for Later/Omnivore/2024-01-29",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
-    "Blog/_posts/2024-01-27-Learning-Vim-again.md",
     "Blog/_sass/minima/custom-styles.scss",
     "Blog/_sass/minima/custom-variables.scss",
-    "Blog/_sass/minima",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
