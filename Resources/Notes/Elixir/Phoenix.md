@@ -34,6 +34,12 @@ Where you write tests
 1. Modify the router by adding a new router
 2. Add a function to the controller to handle that route
 3. Create an html page in the html folder matching the controller name
+4. You can pass data to views from within the controller by passing it to the view in the render method
+   - Uses the template engine eex
+   - You can return JSOn
+### Limitations
+- The templating engine is not as powerful as using something like react
+- Liveview is another alternative to keep all of the logic in the backend
 
 
 
