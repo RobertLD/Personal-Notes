@@ -53,5 +53,9 @@ Where you write tests
 
 
 
+### Thoughts so far
+1. Using elixir allows you to generate a lot of the code automagically which is nice. However, it does require you to understand both the CLI and the code that's generated for you
+2. It appears that some basic planning of structure is required, and purely iterative design isn't possible
+
 
 
