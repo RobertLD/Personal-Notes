@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Notes/Elixir/Phoenix.md",
+                "file": "Daily/2024/February/24-Sat.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Notes/Elixir/Phoenix.md",
+                "file": "Daily/2024/February/24-Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Notes/Elixir/Phoenix.md",
+                "file": "Daily/2024/February/24-Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Notes/Elixir/Phoenix.md"
+                "file": "Daily/2024/February/24-Sat.md"
               }
             }
           }
@@ -152,8 +152,11 @@
   },
   "active": "b1fc5073e37d5883",
   "lastOpenFiles": [
-    "Resources/Notes/Elixir/Elixir Overview.md",
+    "Resources/Saved for Later/Omnivore/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
     "Resources/Notes/Elixir/Phoenix.md",
+    "Daily/2024/February/24-Sat.md",
+    "Resources/Saved for Later/Omnivore/High-frequency, liquidity-taking strategy - Databento Blog.md",
+    "Resources/Notes/Elixir/Elixir Overview.md",
     "Resources/Notes/Automating Alec's Workflow.md",
     "Resources/Notes/Elixir/Creating an Elixir Project.md",
     "Resources/Notes/MVC Architecture Pattern.md",
@@ -184,9 +187,6 @@
     "Resources/Ideas/Things to Research.md",
     "Resources/Ideas/Blog Ideas.md",
     "Resources/Ideas/Programming Project Ideas.md",
-    "Daily/2024/January/31-Wed.md",
-    "Resources/Notes/Notes on 2023 Admired and Desired.md",
-    "Daily/2024/January/29-Mon.md",
     "Resources/Saved for Later/Omnivore/2024-01-31",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
