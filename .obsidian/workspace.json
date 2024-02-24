@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/February/24-Sat.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/February/24-Sat.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/February/24-Sat.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/February/24-Sat.md"
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
               }
             }
           }
@@ -152,9 +152,9 @@
   },
   "active": "b1fc5073e37d5883",
   "lastOpenFiles": [
+    "Daily/2024/February/24-Sat.md",
     "Resources/Saved for Later/Omnivore/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
     "Resources/Notes/Elixir/Phoenix.md",
-    "Daily/2024/February/24-Sat.md",
     "Resources/Saved for Later/Omnivore/High-frequency, liquidity-taking strategy - Databento Blog.md",
     "Resources/Notes/Elixir/Elixir Overview.md",
     "Resources/Notes/Automating Alec's Workflow.md",
