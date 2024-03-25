@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/February/08-Thu.md",
+                "file": "Daily/2024/March/25-Mon.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font",
+                "query": "sql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/February/08-Thu.md",
+                "file": "Daily/2024/March/25-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/February/08-Thu.md",
+                "file": "Daily/2024/March/25-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/February/08-Thu.md"
+                "file": "Daily/2024/March/25-Mon.md"
               }
             }
           }
@@ -152,13 +153,23 @@
   },
   "active": "613da15c37ea1d27",
   "lastOpenFiles": [
+    "Research/Saved for Later/Omnivore/2024-03-14/Blog - Create a sequence diagram.md",
+    "Research/Saved for Later/Omnivore/2024-03-14",
+    "Research/Saved for Later/Omnivore/2024-02-20/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
+    "Research/Saved for Later/Omnivore/2024-02-20/High-frequency, liquidity-taking strategy - Databento Blog.md",
+    "Research/Saved for Later/Omnivore/2024-02-20",
+    "Research/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
+    "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
+    "Research/Saved for Later/Omnivore/2024-02-09",
+    "Daily/2024/February/08-Thu.md",
+    "Daily/2024/March/25-Mon.md",
+    "Daily/2024/March",
     "Research/Saved for Later/Omnivore/2024-02-07/Keeping code simple- moving fast by avoiding over-engineering.md",
     "Research/Saved for Later/Omnivore/2024-02-07",
     "Research/Saved for Later/Omnivore/2024-02-06/Go 1.22 Release Notes - The Go Programming Language.md",
     "Research/Saved for Later/Omnivore/2024-02-06/cfahlgren1-natural-sql- A series of top performing Text to SQL LLMs.md",
     "Research/Saved for Later/Omnivore/2024-02-06",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-    "Daily/2024/February/08-Thu.md",
     "Daily/2024/February/04-Sun.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "conflict-files-obsidian-git.md",
@@ -177,17 +188,7 @@
     "Research/Saved for Later/Omnivore/2024-01-31",
     "Daily/2024/January/30-Tue.md",
     "Blog/Mobilemerge.yml",
-    "Research/Saved for Later/Omnivore/2024-01-29/Callouts - Obsidian Help.md",
     "Research/Saved for Later/Omnivore/2024-01-29",
-    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
-    "Blog/_posts/2024-01-27-Learning-Vim-again.md",
-    "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
-    "README.md",
-    "Blog/2024-01-26-Collection-of-Project-Ideas.md",
-    "Blog/_sass/minima/custom-styles.scss",
-    "Blog/_sass/minima/custom-variables.scss",
-    "Blog/_sass/minima",
-    "Blog/_sass",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
