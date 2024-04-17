@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79bf9910a4ec932c",
+        "id": "5bd74cb82215166f",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fc5073e37d5883",
+            "id": "d4ba3e6c76101222",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/April/17-Wed.md",
+                "file": "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/April/17-Wed.md",
+                "file": "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/April/17-Wed.md",
+                "file": "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/April/17-Wed.md"
+                "file": "Blog/_drafts/2024-04-17-A-Rimworld-Story.md"
               }
             }
           }
@@ -150,14 +150,34 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "b1fc5073e37d5883",
+  "active": "d4ba3e6c76101222",
   "lastOpenFiles": [
+    "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_posts/2024-01-27-Learning-Vim-again.md",
+    "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
+    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+    "Daily/2024/April/17-Wed.md",
+    "Blog/attached/tasks.png",
+    "Blog/attached/omnivore.png",
+    "Blog/attached/graph.png",
+    "Blog/attached",
+    "Blog/_sass/minima/custom-variables.scss",
+    "Blog/_sass/minima/custom-styles.scss",
+    "Blog/_sass/minima",
+    "Blog/_sass",
+    "Blog/_posts/2024-01-29-Setting-up-Obsidian-with-Git-on-Mobile.md",
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Blog/_posts",
+    "Blog/_includes/footer.html",
+    "Blog/_includes/custom-head.html",
+    "Blog/_includes",
+    "Blog/_drafts",
+    "Blog/README.md",
     "Resources/Saved for Later/Omnivore/Python3- Logging With Multiprocessing - by FanchenBao - Medium.md",
     "Resources/Saved for Later/Omnivore/Multiprocessing Logging in Python - Super Fast Python.md",
     "Resources/Saved for Later/Omnivore/Logging Cookbook — Python 3.12.2 documentation.md",
     "Resources/Saved for Later/Omnivore/Blog - Create a sequence diagram.md",
-    "Daily/2024/April/17-Wed.md",
-    "Daily/2024/April",
     "Daily/2024/February/24-Sat.md",
     "Resources/Saved for Later/Omnivore/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
     "Resources/Notes/Elixir/Phoenix.md",
@@ -168,29 +188,9 @@
     "Resources/Notes/MVC Architecture Pattern.md",
     "Daily/2024/February/10-Sat.md",
     "Resources/Notes/Elixir/Setting up elixir on windows.md",
-    "Archives",
-    "Resources",
-    "Areas",
-    "Projects",
-    "Resources/Notes/Elixir",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Resources/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
     "Resources/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
-    "Resources/Saved for Later/Omnivore/2024-02-09",
     "conflict-files-obsidian-git.md",
-    "Daily/2024/February/09-Fri.md",
-    "Daily/2024/February/08-Thu.md",
-    "Resources/Saved for Later/Omnivore/2024-02-07/Keeping code simple- moving fast by avoiding over-engineering.md",
-    "Resources/Saved for Later/Omnivore/2024-02-07",
-    "Resources/Saved for Later/Omnivore/2024-02-06/Go 1.22 Release Notes - The Go Programming Language.md",
-    "Resources/Saved for Later/Omnivore/2024-02-06/cfahlgren1-natural-sql- A series of top performing Text to SQL LLMs.md",
-    "Resources/Saved for Later/Omnivore/2024-02-06",
-    "Daily/2024/February/04-Sun.md",
-    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
-    "Daily/2024/February",
-    "Blog/attached/graph.png",
-    "Blog/attached/omnivore.png",
-    "Blog/attached/tasks.png",
     "Untitled.canvas",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121114824.png",
