@@ -15,7 +15,7 @@
               "state": {
                 "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Daily/2024/May/09-Thu.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Resources/Notes/Android Development/Android Architecture.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddf20d50b5e46206",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Resources/Notes/Android Development/Android Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Resources/Notes/Android Development/Android Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Resources/Notes/Android Development/Android Architecture.md"
               }
             }
           }
@@ -178,6 +188,8 @@
   "active": "e57a89d0eb4181e1",
   "lastOpenFiles": [
     "Daily/2024/May/09-Thu.md",
+    "Resources/Notes/Android Development/Android Architecture.md",
+    "Resources/Notes/Android Development",
     "conflict-files-obsidian-git.md",
     "Daily/Designing a rimworld mod.md",
     "Daily/2024/April/17-Wed.md",
@@ -210,9 +222,7 @@
     "Resources/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
     "Resources/Saved for Later/Omnivore/2024-02-09",
     "Daily/2024/February/09-Fri.md",
-    "Daily/2024/February/08-Thu.md",
     "Resources/Saved for Later/Omnivore/2024-02-07",
-    "Resources/Saved for Later/Omnivore/2024-02-06",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
