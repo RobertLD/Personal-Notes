@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "008a6e13c0481dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/May/09-Thu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/May/09-Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/May/09-Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
+                "file": "Daily/2024/May/09-Thu.md"
               }
             }
           }
@@ -150,8 +163,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b1fc5073e37d5883",
+  "active": "008a6e13c0481dff",
   "lastOpenFiles": [
+    "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
+    "Resources/Saved for Later/Omnivore/[PHNX-1492] Inventory of FS queries to check for reliance on grain size - Jira.md",
+    "Resources/Saved for Later/Omnivore/Python3- Logging With Multiprocessing - by FanchenBao - Medium.md",
+    "Resources/Saved for Later/Omnivore/Multiprocessing Logging in Python - Super Fast Python.md",
+    "Daily/2024/May/09-Thu.md",
+    "Resources/Saved for Later/Omnivore/Logging Cookbook — Python 3.12.2 documentation.md",
+    "Daily/2024/May",
+    "Resources/Saved for Later/Omnivore/Blog - Create a sequence diagram.md",
     "Daily/2024/February/24-Sat.md",
     "Resources/Saved for Later/Omnivore/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
     "Resources/Notes/Elixir/Phoenix.md",
@@ -179,15 +200,7 @@
     "Resources/Saved for Later/Omnivore/2024-02-06/Go 1.22 Release Notes - The Go Programming Language.md",
     "Resources/Saved for Later/Omnivore/2024-02-06/cfahlgren1-natural-sql- A series of top performing Text to SQL LLMs.md",
     "Resources/Saved for Later/Omnivore/2024-02-06",
-    "Daily/2024/February/04-Sun.md",
-    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
-    "Daily/2024/February/02-Fri.md",
-    "Daily/2024/February/01-Thu.md",
     "Daily/2024/February",
-    "Resources/Ideas/Things to Research.md",
-    "Resources/Ideas/Blog Ideas.md",
-    "Resources/Ideas/Programming Project Ideas.md",
-    "Resources/Saved for Later/Omnivore/2024-01-31",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
