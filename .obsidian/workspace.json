@@ -19,28 +19,15 @@
             "id": "2ae34005a540f65b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Daily/2024/May/13-Mon.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d894e84035c8fc79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "file": "Daily/2024/May/13-Mon.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,9 +153,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d894e84035c8fc79",
+  "active": "2ae34005a540f65b",
   "lastOpenFiles": [
     "Daily/2024/May/13-Mon.md",
+    "conflict-files-obsidian-git.md",
     "Resources/Saved for Later/Omnivore/[PHNX-1492] Inventory of FS queries to check for reliance on grain size - Jira.md",
     "Resources/Saved for Later/Omnivore/Python3- Logging With Multiprocessing - by FanchenBao - Medium.md",
     "Resources/Saved for Later/Omnivore/Multiprocessing Logging in Python - Super Fast Python.md",
@@ -185,7 +169,6 @@
     "Daily/2024/April/18-Thu.md",
     "Daily/2024/April/17-Wed.md",
     "Daily/2024/April",
-    "conflict-files-obsidian-git.md",
     "Resources/Resume",
     "Untitled.canvas",
     "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
