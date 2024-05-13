@@ -14,8 +14,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "2ae34005a540f65b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/May/13-Mon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d894e84035c8fc79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -141,12 +170,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0eb6044f549f3387",
+  "active": "d894e84035c8fc79",
   "lastOpenFiles": [
+    "Daily/2024/May/13-Mon.md",
+    "Resources/Saved for Later/Omnivore/[PHNX-1492] Inventory of FS queries to check for reliance on grain size - Jira.md",
+    "Resources/Saved for Later/Omnivore/Python3- Logging With Multiprocessing - by FanchenBao - Medium.md",
+    "Resources/Saved for Later/Omnivore/Multiprocessing Logging in Python - Super Fast Python.md",
+    "Resources/Saved for Later/Omnivore/Logging Cookbook — Python 3.12.2 documentation.md",
+    "Resources/Saved for Later/Omnivore/Blog - Create a sequence diagram.md",
+    "Resources/Notes/Android Development/Android Architecture.md",
+    "Resources/Notes/Android Development",
+    "Daily/Designing a rimworld mod.md",
+    "Daily/2024/May/09-Thu.md",
+    "Daily/2024/April/18-Thu.md",
+    "Daily/2024/April/17-Wed.md",
+    "Daily/2024/April",
+    "conflict-files-obsidian-git.md",
     "Resources/Resume",
     "Untitled.canvas",
-    "Daily/2024/May/13-Mon.md",
-    "conflict-files-obsidian-git.md",
     "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
     "Daily/2024/May",
     "Daily/2024/March/25-Mon.md",
@@ -162,27 +203,15 @@
     "Resources/Saved for Later/Omnivore/2024-01-28/How to Resize Images in Jekyll Markdown - Sean Osier.md",
     "Resources/Saved for Later/Omnivore/2024-01-28/Epigrams in Programming - Computer Science.md",
     "Resources/Reference/Obsidian/templates/what_i_learned.md",
-    "Resources/Reference/Obsidian/templates/template_daily_notes.md",
-    "Resources/Reference/Obsidian/templates/blog_post_template.md",
-    "Resources/Reference/Obsidian/templates/Untitled.md",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121114558.png",
-    "Resources/Reference/Jekyll/Minima/Configuration.md",
-    "Resources/Saved for Later/Omnivore/High-frequency, liquidity-taking strategy - Databento Blog.md",
-    "Resources/Saved for Later/Omnivore/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
     "Resources/Saved for Later/Omnivore/2024-02-09",
     "Resources/Saved for Later/Omnivore/2024-02-07",
     "Resources/Saved for Later/Omnivore/2024-02-06",
     "Resources/Saved for Later/Omnivore/2024-01-31",
     "Resources/Saved for Later/Omnivore/2024-01-29",
     "Resources/Saved for Later/Omnivore/2024-01-28",
-    "Resources/Reference/Obsidian/templates",
-    "Resources/Reference/Obsidian/attached",
-    "Resources/Reference/Obsidian/Plugins.md",
-    "Resources/Reference/Jekyll/Minima",
-    "Resources/Reference/Jekyll/Jekyll Markdown Cheat-sheet.md",
-    "Resources/Reference/Jekyll/Documentation.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
