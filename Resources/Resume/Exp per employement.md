@@ -1,2 +1,11 @@
  ### Voloridge
- - Archit
+ - Architect and implement authorization and authentication platform for firm-wide permission management
+ - Vastly Improve performance of risk management software
+ - Develop developer administration tools for easier management of our software suite
+ - Create and maintain build-pipelines in Azure TFS and Atlassian Bamboo for CI/CD
+ - Improve legacy codebases by applying modern software techniques
+ - Mentor and guide interns
+ - Introduce golang to the firm
+ - Improve risk management performance through cache implementation
+ - Construct and maintain developer containers for all of the projects
+ - Construct dashboards for monitoring important components
