@@ -1,7 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-task-progress-bar",
   "dataview",
-  "templater-obsidian",
-  "obsidian-omnivore"
+  "templater-obsidian"
 ]
