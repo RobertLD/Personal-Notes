@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Notes/Android Development/Android Architecture.md",
+                "file": "Daily/2024/May/19-Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Notes/Android Development/Android Architecture.md",
+                "file": "Daily/2024/May/19-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Notes/Android Development/Android Architecture.md",
+                "file": "Daily/2024/May/19-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Notes/Android Development/Android Architecture.md"
+                "file": "Daily/2024/May/19-Sun.md"
               }
             }
           }
@@ -187,8 +187,9 @@
   },
   "active": "e57a89d0eb4181e1",
   "lastOpenFiles": [
-    "Daily/2024/May/09-Thu.md",
     "Resources/Notes/Android Development/Android Architecture.md",
+    "Daily/2024/May/19-Sun.md",
+    "Daily/2024/May/09-Thu.md",
     "Resources/Notes/Android Development",
     "conflict-files-obsidian-git.md",
     "Daily/Designing a rimworld mod.md",
@@ -221,7 +222,6 @@
     "Resources/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
     "Resources/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
     "Resources/Saved for Later/Omnivore/2024-02-09",
-    "Daily/2024/February/09-Fri.md",
     "Resources/Saved for Later/Omnivore/2024-02-07",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",

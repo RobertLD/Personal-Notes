@@ -23,5 +23,7 @@ A repository is the bridge between each of these three major components
 ### Package Structure
 - App (Core Components)
 	- Data
+		- Repository
+	- Presentation
 - Feature (Specific Components)
 	- Data
