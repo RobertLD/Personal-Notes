@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Notes/Notes on 2023 Admired and Desired.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Notes/Notes on 2023 Admired and Desired.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Notes/Notes on 2023 Admired and Desired.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Notes/Notes on 2023 Admired and Desired.md"
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
               }
             }
           }
@@ -198,6 +198,8 @@
   },
   "active": "54c1142a02985de6",
   "lastOpenFiles": [
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
+    "Resources/Notes/Notes on 2023 Admired and Desired.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/May/19-Sun.md",
     "conflict-files-obsidian-git.md",
@@ -232,8 +234,6 @@
     "Resources/Saved for Later/Omnivore/Blog - Create a sequence diagram.md",
     "Daily/2024/February/24-Sat.md",
     "Resources/Saved for Later/Omnivore/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
-    "Resources/Notes/Elixir/Phoenix.md",
-    "Resources/Saved for Later/Omnivore/High-frequency, liquidity-taking strategy - Databento Blog.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
