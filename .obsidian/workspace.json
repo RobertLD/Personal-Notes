@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "54c1142a02985de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ddf20d50b5e46206",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/May/19-Sun.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/May/19-Sun.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/May/19-Sun.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -185,13 +197,29 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e57a89d0eb4181e1",
+  "active": "54c1142a02985de6",
   "lastOpenFiles": [
-    "Resources/Notes/Android Development/Android Architecture.md",
     "Daily/2024/May/19-Sun.md",
+    "conflict-files-obsidian-git.md",
+    "Resources/Resume/Exp per employement.md",
+    "Resources/Resume",
+    "Research/Saved for Later/Omnivore/2024-03-14/Blog - Create a sequence diagram.md",
+    "Research/Saved for Later/Omnivore/2024-02-20/High-frequency, liquidity-taking strategy - Databento Blog.md",
+    "Research/Saved for Later/Omnivore/2024-02-20/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
+    "Research/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
+    "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
+    "Research/Saved for Later/Omnivore/2024-03-14",
+    "Research/Saved for Later/Omnivore/2024-02-20",
+    "Research/Saved for Later/Omnivore/2024-02-09",
+    "Research/Saved for Later/Omnivore",
+    "Research/Saved for Later",
+    "Research",
+    "Daily/2024/May/13-Mon.md",
+    "Daily/2024/March/25-Mon.md",
+    "Daily/2024/March",
+    "Resources/Notes/Android Development/Android Architecture.md",
     "Daily/2024/May/09-Thu.md",
     "Resources/Notes/Android Development",
-    "conflict-files-obsidian-git.md",
     "Daily/Designing a rimworld mod.md",
     "Daily/2024/April/17-Wed.md",
     "Daily/2024/April/18-Thu.md",
@@ -201,28 +229,12 @@
     "Resources/Saved for Later/Omnivore/Python3- Logging With Multiprocessing - by FanchenBao - Medium.md",
     "Resources/Saved for Later/Omnivore/Multiprocessing Logging in Python - Super Fast Python.md",
     "Resources/Saved for Later/Omnivore/Logging Cookbook — Python 3.12.2 documentation.md",
-    "Daily/2024/May",
     "Resources/Saved for Later/Omnivore/Blog - Create a sequence diagram.md",
     "Daily/2024/February/24-Sat.md",
     "Resources/Saved for Later/Omnivore/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
     "Resources/Notes/Elixir/Phoenix.md",
     "Resources/Saved for Later/Omnivore/High-frequency, liquidity-taking strategy - Databento Blog.md",
     "Resources/Notes/Elixir/Elixir Overview.md",
-    "Resources/Notes/Automating Alec's Workflow.md",
-    "Resources/Notes/Elixir/Creating an Elixir Project.md",
-    "Resources/Notes/MVC Architecture Pattern.md",
-    "Daily/2024/February/10-Sat.md",
-    "Resources/Notes/Elixir/Setting up elixir on windows.md",
-    "Archives",
-    "Resources",
-    "Areas",
-    "Projects",
-    "Resources/Notes/Elixir",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-    "Resources/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
-    "Resources/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
-    "Resources/Saved for Later/Omnivore/2024-02-09",
-    "Resources/Saved for Later/Omnivore/2024-02-07",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
