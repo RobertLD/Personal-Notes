@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Designing a rimworld mod.md",
+                "file": "Daily/2024/May/19-Sun.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Designing a rimworld mod.md",
+                "file": "Daily/2024/May/19-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Designing a rimworld mod.md",
+                "file": "Daily/2024/May/19-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Designing a rimworld mod.md"
+                "file": "Daily/2024/May/19-Sun.md"
               }
             }
           }
@@ -152,8 +152,11 @@
   },
   "active": "d4ba3e6c76101222",
   "lastOpenFiles": [
-    "Daily/2024/April/18-Thu.md",
     "Daily/Designing a rimworld mod.md",
+    "Daily/2024/May/19-Sun.md",
+    "Daily/2024/May",
+    "Resources/Saved for Later/Omnivore/[PHNX-1492] Inventory of FS queries to check for reliance on grain size - Jira.md",
+    "Daily/2024/April/18-Thu.md",
     "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
@@ -174,7 +177,6 @@
     "Blog/_includes/footer.html",
     "Blog/_includes/custom-head.html",
     "Blog/_includes",
-    "Blog/_drafts",
     "Blog/README.md",
     "Resources/Saved for Later/Omnivore/Python3- Logging With Multiprocessing - by FanchenBao - Medium.md",
     "Resources/Saved for Later/Omnivore/Multiprocessing Logging in Python - Super Fast Python.md",
@@ -189,8 +191,6 @@
     "Resources/Notes/Elixir/Creating an Elixir Project.md",
     "Resources/Notes/MVC Architecture Pattern.md",
     "Daily/2024/February/10-Sat.md",
-    "Resources/Notes/Elixir/Setting up elixir on windows.md",
-    "Resources/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
     "Untitled.canvas",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121114824.png",
