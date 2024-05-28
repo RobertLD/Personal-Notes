@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/May/28-Tue.md",
+                "file": "Areas/Cookbook/Healthy Foods.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/May/28-Tue.md",
+                "file": "Areas/Cookbook/Healthy Foods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/May/28-Tue.md",
+                "file": "Areas/Cookbook/Healthy Foods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/May/28-Tue.md"
+                "file": "Areas/Cookbook/Healthy Foods.md"
               }
             }
           },
@@ -204,11 +204,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0eb6044f549f3387",
+  "active": "54c1142a02985de6",
   "lastOpenFiles": [
-    "Areas/Untitled",
-    "Resources/Notes/Healthy Food list.md",
     "Daily/2024/May/28-Tue.md",
+    "Areas/Cookbook/Healthy Foods.md",
+    "Areas/Cookbook",
+    "Resources/Notes/Healthy Food list.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Resources/Notes/Notes on 2023 Admired and Desired.md",
@@ -236,7 +237,6 @@
     "Daily/Designing a rimworld mod.md",
     "Daily/2024/April/17-Wed.md",
     "Daily/2024/April/18-Thu.md",
-    "Daily/2024/April",
     "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
     "Resources/Saved for Later/Omnivore/[PHNX-1492] Inventory of FS queries to check for reliance on grain size - Jira.md",
     "Resources/Saved for Later/Omnivore/Python3- Logging With Multiprocessing - by FanchenBao - Medium.md",
