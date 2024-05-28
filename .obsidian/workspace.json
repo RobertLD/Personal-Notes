@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +205,8 @@
   },
   "active": "54c1142a02985de6",
   "lastOpenFiles": [
+    "Areas/Cookbook/Recipes/attached/mediterranean-salmon-orzo-salad-photograph-720x720.jpg",
+    "Areas/Cookbook/Recipes/attached",
     "Areas/Cookbook/Meal Plans/2024-05-28.md",
     "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
     "Areas/Cookbook/Healthy Foods.md",
@@ -232,7 +233,6 @@
     "Research/Saved for Later/Omnivore/2024-02-20",
     "Research/Saved for Later/Omnivore/2024-02-09",
     "Research/Saved for Later/Omnivore",
-    "Research/Saved for Later",
     "Daily/2024/May/13-Mon.md",
     "Daily/2024/March/25-Mon.md",
     "Resources/Notes/Android Development/Android Architecture.md",
@@ -241,7 +241,6 @@
     "Daily/2024/April/17-Wed.md",
     "Daily/2024/April/18-Thu.md",
     "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
-    "Resources/Saved for Later/Omnivore/[PHNX-1492] Inventory of FS queries to check for reliance on grain size - Jira.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",

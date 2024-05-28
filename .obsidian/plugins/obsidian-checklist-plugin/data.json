@@ -1,10 +1,10 @@
 {
-  "todoPageName": "ingredients",
+  "todoPageName": "ingredients\nrecipe",
   "showChecked": false,
-  "showAllTodos": false,
+  "showAllTodos": true,
   "autoRefresh": true,
   "subGroups": false,
-  "groupBy": "tag",
+  "groupBy": "page",
   "sortDirectionItems": "new->old",
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",
