@@ -204,8 +204,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "54c1142a02985de6",
+  "active": "0eb6044f549f3387",
   "lastOpenFiles": [
+    "Areas/Cookbook/Recipes",
     "Daily/2024/May/28-Tue.md",
     "Areas/Cookbook/Healthy Foods.md",
     "Areas/Cookbook",
@@ -241,7 +242,6 @@
     "Resources/Saved for Later/Omnivore/[PHNX-1492] Inventory of FS queries to check for reliance on grain size - Jira.md",
     "Resources/Saved for Later/Omnivore/Python3- Logging With Multiprocessing - by FanchenBao - Medium.md",
     "Resources/Saved for Later/Omnivore/Multiprocessing Logging in Python - Super Fast Python.md",
-    "Resources/Saved for Later/Omnivore/Logging Cookbook — Python 3.12.2 documentation.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
