@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Cookbook/Healthy Foods.md",
+                "file": "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Cookbook/Healthy Foods.md",
+                "file": "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Cookbook/Healthy Foods.md",
+                "file": "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Cookbook/Healthy Foods.md"
+                "file": "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md"
               }
             }
           },
@@ -204,11 +204,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0eb6044f549f3387",
+  "active": "54c1142a02985de6",
   "lastOpenFiles": [
+    "Areas/Cookbook/Meal Plans/2024-05-28.md",
+    "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
+    "Areas/Cookbook/Healthy Foods.md",
+    "Areas/Cookbook/Untitled.md",
+    "Areas/Cookbook/Meal Plans",
+    "Areas/Cookbook/Shopping Lists",
     "Areas/Cookbook/Recipes",
     "Daily/2024/May/28-Tue.md",
-    "Areas/Cookbook/Healthy Foods.md",
     "Areas/Cookbook",
     "Resources/Notes/Healthy Food list.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
@@ -228,20 +233,15 @@
     "Research/Saved for Later/Omnivore/2024-02-09",
     "Research/Saved for Later/Omnivore",
     "Research/Saved for Later",
-    "Research",
     "Daily/2024/May/13-Mon.md",
     "Daily/2024/March/25-Mon.md",
-    "Daily/2024/March",
     "Resources/Notes/Android Development/Android Architecture.md",
     "Daily/2024/May/09-Thu.md",
-    "Resources/Notes/Android Development",
     "Daily/Designing a rimworld mod.md",
     "Daily/2024/April/17-Wed.md",
     "Daily/2024/April/18-Thu.md",
     "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
     "Resources/Saved for Later/Omnivore/[PHNX-1492] Inventory of FS queries to check for reliance on grain size - Jira.md",
-    "Resources/Saved for Later/Omnivore/Python3- Logging With Multiprocessing - by FanchenBao - Medium.md",
-    "Resources/Saved for Later/Omnivore/Multiprocessing Logging in Python - Super Fast Python.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
