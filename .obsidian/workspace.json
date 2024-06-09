@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
+                "file": "Daily/2024/June/09-Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
+                "file": "Daily/2024/June/09-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
+                "file": "Daily/2024/June/09-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md"
+                "file": "Daily/2024/June/09-Sun.md"
               }
             }
           },
@@ -203,8 +203,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0eb6044f549f3387",
+  "active": "54c1142a02985de6",
   "lastOpenFiles": [
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Daily/2024/June/09-Sun.md",
+    "Daily/2024/June",
     "Areas/Cookbook/Meal Plans/2024-05-28.md",
     "Areas/Cookbook/Healthy Foods.md",
     "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
@@ -217,7 +220,6 @@
     "Daily/2024/May/28-Tue.md",
     "Areas/Cookbook",
     "Resources/Notes/Healthy Food list.md",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Resources/Notes/Notes on 2023 Admired and Desired.md",
     "Daily/2024/May/19-Sun.md",
@@ -232,7 +234,6 @@
     "Research/Saved for Later/Omnivore/2024-03-14",
     "Research/Saved for Later/Omnivore/2024-02-20",
     "Research/Saved for Later/Omnivore/2024-02-09",
-    "Research/Saved for Later/Omnivore",
     "Daily/2024/May/13-Mon.md",
     "Daily/2024/March/25-Mon.md",
     "Resources/Notes/Android Development/Android Architecture.md",
