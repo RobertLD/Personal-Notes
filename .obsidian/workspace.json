@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "79bf9910a4ec932c",
+        "id": "67993d3e86a9d824",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fc5073e37d5883",
+            "id": "504bb721731748fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Research/CryptoStuff/Investigating 1min bars.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "008a6e13c0481dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/May/09-Thu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e57a89d0eb4181e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/May/19-Sun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54c1142a02985de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b8e6991369cec70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/June/22-Sat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddf20d50b5e46206",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/June/22-Sat.md",
+                "file": "Research/CryptoStuff/Investigating 1min bars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/June/22-Sat.md",
+                "file": "Research/CryptoStuff/Investigating 1min bars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/June/22-Sat.md"
+                "file": "Research/CryptoStuff/Investigating 1min bars.md"
               }
             }
           },
@@ -215,9 +156,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0b8e6991369cec70",
+  "active": "504bb721731748fe",
   "lastOpenFiles": [
     "Daily/2024/June/22-Sat.md",
+    "Research/CryptoStuff/Investigating 1min bars.md",
+    "Research/CryptoStuff",
     "Daily/2024/June/09-Sun.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/June",
@@ -246,14 +189,12 @@
     "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
     "Research/Saved for Later/Omnivore/2024-03-14",
     "Research/Saved for Later/Omnivore/2024-02-20",
-    "Research/Saved for Later/Omnivore/2024-02-09",
     "Daily/2024/May/13-Mon.md",
     "Daily/2024/March/25-Mon.md",
     "Resources/Notes/Android Development/Android Architecture.md",
     "Daily/2024/May/09-Thu.md",
     "Daily/Designing a rimworld mod.md",
     "Daily/2024/April/17-Wed.md",
-    "Daily/2024/April/18-Thu.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
