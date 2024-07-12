@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/CryptoStuff/Investigating 1min bars.md",
+                "file": "Daily/2024/July/12-Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/CryptoStuff/Investigating 1min bars.md",
+                "file": "Daily/2024/July/12-Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/CryptoStuff/Investigating 1min bars.md",
+                "file": "Daily/2024/July/12-Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/CryptoStuff/Investigating 1min bars.md"
+                "file": "Daily/2024/July/12-Fri.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "504bb721731748fe",
   "lastOpenFiles": [
-    "Daily/2024/June/22-Sat.md",
     "Research/CryptoStuff/Investigating 1min bars.md",
+    "Daily/2024/July/12-Fri.md",
+    "Daily/2024/July",
+    "Daily/2024/June/22-Sat.md",
     "Research/CryptoStuff",
     "Daily/2024/June/09-Sun.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
@@ -188,13 +190,11 @@
     "Research/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
     "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
     "Research/Saved for Later/Omnivore/2024-03-14",
-    "Research/Saved for Later/Omnivore/2024-02-20",
     "Daily/2024/May/13-Mon.md",
     "Daily/2024/March/25-Mon.md",
     "Resources/Notes/Android Development/Android Architecture.md",
     "Daily/2024/May/09-Thu.md",
     "Daily/Designing a rimworld mod.md",
-    "Daily/2024/April/17-Wed.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
