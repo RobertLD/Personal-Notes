@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/12-Fri.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/12-Fri.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/12-Fri.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/12-Fri.md"
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "504bb721731748fe",
   "lastOpenFiles": [
-    "Research/CryptoStuff/Investigating 1min bars.md",
+    "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
+    "Blog/_posts/2024-01-27-Learning-Vim-again.md",
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
+    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Daily/2024/July/12-Fri.md",
+    "Research/CryptoStuff/Investigating 1min bars.md",
     "Daily/2024/July",
     "Daily/2024/June/22-Sat.md",
     "Research/CryptoStuff",
@@ -178,7 +182,6 @@
     "Daily/2024/May/28-Tue.md",
     "Areas/Cookbook",
     "Resources/Notes/Healthy Food list.md",
-    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Resources/Notes/Notes on 2023 Admired and Desired.md",
     "Daily/2024/May/19-Sun.md",
     "conflict-files-obsidian-git.md",
@@ -192,9 +195,6 @@
     "Research/Saved for Later/Omnivore/2024-03-14",
     "Daily/2024/May/13-Mon.md",
     "Daily/2024/March/25-Mon.md",
-    "Resources/Notes/Android Development/Android Architecture.md",
-    "Daily/2024/May/09-Thu.md",
-    "Daily/Designing a rimworld mod.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
