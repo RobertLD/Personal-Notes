@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3af9cb2dc6deca4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/July/13-Sat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/July/13-Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/July/13-Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
+                "file": "Daily/2024/July/13-Sat.md"
               }
             }
           },
@@ -156,8 +169,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "504bb721731748fe",
+  "active": "3af9cb2dc6deca4f",
   "lastOpenFiles": [
+    "Daily/2024/July/13-Sat.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
@@ -194,7 +208,6 @@
     "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
     "Research/Saved for Later/Omnivore/2024-03-14",
     "Daily/2024/May/13-Mon.md",
-    "Daily/2024/March/25-Mon.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
