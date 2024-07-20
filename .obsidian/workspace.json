@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/20-Sat.md",
+                "file": "Blog/_drafts/2024-07-20-On-Caching-Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/20-Sat.md",
+                "file": "Blog/_drafts/2024-07-20-On-Caching-Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/20-Sat.md",
+                "file": "Blog/_drafts/2024-07-20-On-Caching-Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/20-Sat.md"
+                "file": "Blog/_drafts/2024-07-20-On-Caching-Patterns.md"
               }
             }
           },
@@ -171,13 +171,15 @@
   },
   "active": "3af9cb2dc6deca4f",
   "lastOpenFiles": [
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
+    "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
+    "Blog/_drafts/2024-07-20-On-Caching-Patterns.md",
     "Daily/2024/July/20-Sat.md",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/July/13-Sat.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
-    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Daily/2024/July/12-Fri.md",
     "Research/CryptoStuff/Investigating 1min bars.md",
     "Daily/2024/July",
@@ -205,8 +207,6 @@
     "Research/Saved for Later/Omnivore/2024-03-14/Blog - Create a sequence diagram.md",
     "Research/Saved for Later/Omnivore/2024-02-20/High-frequency, liquidity-taking strategy - Databento Blog.md",
     "Research/Saved for Later/Omnivore/2024-02-20/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
-    "Research/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
-    "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
     "Research/Saved for Later/Omnivore/2024-03-14",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
