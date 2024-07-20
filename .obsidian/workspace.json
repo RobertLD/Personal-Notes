@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/July/20-Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/July/20-Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+                "file": "Daily/2024/July/20-Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md"
+                "file": "Daily/2024/July/20-Sat.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "3af9cb2dc6deca4f",
   "lastOpenFiles": [
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
+    "Daily/2024/July/20-Sat.md",
     "Daily/2024/July/13-Sat.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
@@ -182,7 +184,6 @@
     "Daily/2024/June/22-Sat.md",
     "Research/CryptoStuff",
     "Daily/2024/June/09-Sun.md",
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/June",
     "Areas/Cookbook/Meal Plans/2024-05-28.md",
     "Areas/Cookbook/Healthy Foods.md",
@@ -207,7 +208,6 @@
     "Research/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
     "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
     "Research/Saved for Later/Omnivore/2024-03-14",
-    "Daily/2024/May/13-Mon.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
