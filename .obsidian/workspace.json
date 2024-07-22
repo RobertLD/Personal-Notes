@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/21-Sun.md",
+                "file": "Blog/_posts/2024-07-21-Relearning-statistics.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/21-Sun.md",
+                "file": "Blog/_posts/2024-07-21-Relearning-statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/21-Sun.md",
+                "file": "Blog/_posts/2024-07-21-Relearning-statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/21-Sun.md"
+                "file": "Blog/_posts/2024-07-21-Relearning-statistics.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "66db2a8383ad6e3d",
   "lastOpenFiles": [
+    "Blog/_posts/2024-07-20-Five-Mins-on-Caching-Patterns.md",
+    "Blog/_posts/2024-07-21-Relearning-statistics.md",
     "Daily/2024/July/21-Sun.md",
     "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
-    "Blog/_posts/2024-07-20-Five-Mins-on-Caching-Patterns.md",
     "Daily/2024/July/20-Sat.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/July/13-Sat.md",
@@ -218,7 +219,6 @@
     "Resources/Resume/Exp per employement.md",
     "Resources/Resume",
     "Research/Saved for Later/Omnivore/2024-03-14/Blog - Create a sequence diagram.md",
-    "Research/Saved for Later/Omnivore/2024-02-20/High-frequency, liquidity-taking strategy - Databento Blog.md",
     "Research/Saved for Later/Omnivore/2024-03-14",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
