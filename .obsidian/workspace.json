@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/August/21-Wed.md",
+                "file": "Projects/Cult Boardgame/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/August/21-Wed.md",
+                "file": "Projects/Cult Boardgame/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/August/21-Wed.md",
+                "file": "Projects/Cult Boardgame/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/August/21-Wed.md"
+                "file": "Projects/Cult Boardgame/General.md"
               }
             }
           },
@@ -184,8 +184,10 @@
   },
   "active": "66db2a8383ad6e3d",
   "lastOpenFiles": [
-    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/August/21-Wed.md",
+    "Projects/Cult Boardgame/General.md",
+    "Projects/Cult Boardgame",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/August",
     "Blog/_drafts/2024-07-20-Five-Mins-on-Caching-Patterns.md",
     "Blog/_drafts/2024-07-21-Relearning-statistics.md",
@@ -219,8 +221,6 @@
     "Resources/Notes/Notes on 2023 Admired and Desired.md",
     "Daily/2024/May/19-Sun.md",
     "conflict-files-obsidian-git.md",
-    "Resources/Resume/Exp per employement.md",
-    "Resources/Resume",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
