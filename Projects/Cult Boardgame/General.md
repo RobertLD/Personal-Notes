@@ -19,3 +19,5 @@ The player's start on a hexagon map with various areas of interest. The player w
 	- Powerful  spells that can be cast with the right component
 - Event Cards
 	- Random effects that can influence the state of the game
+## Mechanics
+
