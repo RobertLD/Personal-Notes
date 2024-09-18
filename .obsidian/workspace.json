@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdce89912c798e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/September/18-Wed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c352738c503523dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/September/18-Wed.md",
+                "file": "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/September/18-Wed.md",
+                "file": "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/September/18-Wed.md"
+                "file": "Blog/_drafts/2024-04-17-A-Rimworld-Story.md"
               }
             }
           },
@@ -182,10 +206,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "66db2a8383ad6e3d",
+  "active": "0eb6044f549f3387",
   "lastOpenFiles": [
-    "Projects/Cult Boardgame/General.md",
+    "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
+    "Resources/Notes/EventDrivenBacktester",
+    "Resources/Notes/Designing an Event Driven Backtesting  Engine.md",
+    "Resources/Notes/2024-05-19 Joy's Dating Website.md",
+    "Daily/2024/August/26-Mon.md",
+    "conflict-files-obsidian-git.md",
     "Daily/2024/September/18-Wed.md",
+    "Projects/Cult Boardgame/General.md",
     "Daily/2024/September",
     "Projects/Cult Boardgame/Dieties.md",
     "Daily/2024/August/21-Wed.md",
@@ -210,17 +240,10 @@
     "Daily/2024/June/09-Sun.md",
     "Daily/2024/June",
     "Areas/Cookbook/Meal Plans/2024-05-28.md",
-    "Areas/Cookbook/Healthy Foods.md",
-    "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
     "Areas/Cookbook/Recipes/attached/mediterranean-salmon-orzo-salad-photograph-720x720.jpg",
     "Areas/Cookbook/Recipes/attached",
-    "Areas/Cookbook/Untitled.md",
     "Areas/Cookbook/Meal Plans",
     "Areas/Cookbook/Shopping Lists",
-    "Areas/Cookbook/Recipes",
-    "Daily/2024/May/28-Tue.md",
-    "Resources/Notes/Healthy Food list.md",
-    "Resources/Notes/Notes on 2023 Admired and Desired.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/tasks.png",
