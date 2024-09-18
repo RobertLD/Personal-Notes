@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/September/18-Wed.md",
+                "file": "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/September/18-Wed.md",
+                "file": "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/September/18-Wed.md",
+                "file": "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/September/18-Wed.md"
+                "file": "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "66db2a8383ad6e3d",
   "lastOpenFiles": [
+    "Daily/2024/September/18-Wed.md",
     "Projects/Cult Boardgame/General.md",
     "Projects/Cult Boardgame/Dieties.md",
     "Daily/2024/August/21-Wed.md",
@@ -220,7 +221,6 @@
     "Areas/Cookbook",
     "Resources/Notes/Healthy Food list.md",
     "Resources/Notes/Notes on 2023 Admired and Desired.md",
-    "Daily/2024/May/19-Sun.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/graph.png",
