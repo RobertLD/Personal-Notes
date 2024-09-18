@@ -4,7 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5bd74cb82215166f",
         "id": "67993d3e86a9d824",
         "type": "tabs",
         "children": [
@@ -38,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Cult Boardgame/General.md",
+                "file": "Daily/2024/September/18-Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Cult Boardgame/General.md",
+                "file": "Daily/2024/September/18-Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Cult Boardgame/General.md",
+                "file": "Daily/2024/September/18-Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Cult Boardgame/General.md"
+                "file": "Daily/2024/September/18-Wed.md"
               }
             }
           },
@@ -185,8 +184,8 @@
   },
   "active": "66db2a8383ad6e3d",
   "lastOpenFiles": [
-    "Projects/Cult Boardgame/Dieties.md",
     "Projects/Cult Boardgame/General.md",
+    "Projects/Cult Boardgame/Dieties.md",
     "Daily/2024/August/21-Wed.md",
     "Projects/Cult Boardgame",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
