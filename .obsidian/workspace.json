@@ -5,58 +5,47 @@
     "children": [
       {
         "id": "5bd74cb82215166f",
+        "id": "67993d3e86a9d824",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ba3e6c76101222",
+            "id": "504bb721731748fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/May/19-Sun.md",
+                "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e04f1915631f7e18",
+            "id": "3af9cb2dc6deca4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Notes/2024-05-19 Joy's Dating Website.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fa9ef86505fa874b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/August/26-Mon.md",
+                "file": "Blog/_drafts/2024-07-20-Five-Mins-on-Caching-Patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "45081ca5c5abcb49",
+            "id": "66db2a8383ad6e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Notes/Designing an Event Driven Backtesting  Engine.md",
+                "file": "Projects/Cult Boardgame/General.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font",
+                "query": "tag:#ingredients",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Notes/Designing an Event Driven Backtesting  Engine.md",
+                "file": "Projects/Cult Boardgame/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Notes/Designing an Event Driven Backtesting  Engine.md",
+                "file": "Projects/Cult Boardgame/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,16 +151,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Notes/Designing an Event Driven Backtesting  Engine.md"
+                "file": "Projects/Cult Boardgame/General.md"
               }
+            }
+          },
+          {
+            "id": "1b488b981dbe2a82",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,45 +183,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45081ca5c5abcb49",
+  "active": "66db2a8383ad6e3d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Resources/Notes/Designing an Event Driven Backtesting  Engine.md",
-    "Daily/2024/September/18-Wed.md",
-    "Daily/2024/September",
-    "Daily/2024/August/26-Mon.md",
-    "Blog/_drafts/2024-07-21-Relearning-statistics.md",
-    "Blog/_drafts/2024-07-20-Five-Mins-on-Caching-Patterns.md",
+    "Projects/Cult Boardgame/Dieties.md",
+    "Projects/Cult Boardgame/General.md",
+    "Daily/2024/August/21-Wed.md",
+    "Projects/Cult Boardgame",
+    "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
     "Daily/2024/August",
-    "Resources/Notes/2024-05-19 Joy's Dating Website.md",
-    "Daily/2024/May/19-Sun.md",
-    "Resources/Resume/Exp per employement.md",
-    "Resources/Resume",
-    "Resources/Notes/Android Development/Android Architecture.md",
-    "Resources/Notes/Android Development",
-    "Research/Saved for Later/Omnivore/2024-03-14/Blog - Create a sequence diagram.md",
-    "Research/Saved for Later/Omnivore/2024-02-20/High-frequency, liquidity-taking strategy - Databento Blog.md",
-    "Research/Saved for Later/Omnivore/2024-02-20/A beginner’s guide to making beautiful slides for your talks · ines.io.md",
-    "Research/Saved for Later/Omnivore/2024-02-09/Running Text-to-image AI models locally. - by Ruben Orduz - Medium.md",
-    "Research/Saved for Later/Omnivore/2024-02-09/Modify Gmail with your chrome extension - by Prima - Medium.md",
-    "Research/Saved for Later/Omnivore/2024-03-14",
-    "Research/Saved for Later/Omnivore/2024-02-20",
-    "Research/Saved for Later/Omnivore/2024-02-09",
-    "Research/Saved for Later/Omnivore",
-    "Research/Saved for Later",
-    "Research",
-    "Daily/2024/May/13-Mon.md",
-    "Daily/2024/May/09-Thu.md",
-    "Daily/2024/March/25-Mon.md",
-    "Daily/Designing a rimworld mod.md",
-    "Resources/Saved for Later/Omnivore/[PHNX-1492] Inventory of FS queries to check for reliance on grain size - Jira.md",
-    "Daily/2024/April/18-Thu.md",
+    "Blog/_drafts/2024-07-20-Five-Mins-on-Caching-Patterns.md",
+    "Blog/_drafts/2024-07-21-Relearning-statistics.md",
+    "Daily/2024/July/21-Sun.md",
+    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
     "Blog/_drafts/2024-04-17-A-Rimworld-Story.md",
+    "Daily/2024/July/20-Sat.md",
+    "Daily/2024/July/13-Sat.md",
     "Blog/_posts/2024-01-28-Using-Obsidian-for-everything.md",
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
-    "Blog/_drafts/2024-01-26 Interesting Software Epigrams.md",
-    "Daily/2024/April/17-Wed.md",
-    "Blog/attached/tasks.png",
+    "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
+    "Daily/2024/July/12-Fri.md",
+    "Research/CryptoStuff/Investigating 1min bars.md",
+    "Daily/2024/July",
+    "Daily/2024/June/22-Sat.md",
+    "Research/CryptoStuff",
+    "Daily/2024/June/09-Sun.md",
+    "Daily/2024/June",
+    "Areas/Cookbook/Meal Plans/2024-05-28.md",
+    "Areas/Cookbook/Healthy Foods.md",
+    "Areas/Cookbook/Recipes/Salmon with Orzo Salad.md",
+    "Areas/Cookbook/Recipes/attached/mediterranean-salmon-orzo-salad-photograph-720x720.jpg",
+    "Areas/Cookbook/Recipes/attached",
+    "Areas/Cookbook/Untitled.md",
+    "Areas/Cookbook/Meal Plans",
+    "Areas/Cookbook/Shopping Lists",
+    "Areas/Cookbook/Recipes",
+    "Daily/2024/May/28-Tue.md",
+    "Areas/Cookbook",
+    "Resources/Notes/Healthy Food list.md",
+    "Resources/Notes/Notes on 2023 Admired and Desired.md",
+    "Daily/2024/May/19-Sun.md",
+    "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/graph.png",
     "Untitled.canvas",
