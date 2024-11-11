@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
+                "file": "Daily/2024/November/11-Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
+                "file": "Daily/2024/November/11-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
+                "file": "Daily/2024/November/11-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md"
+                "file": "Daily/2024/November/11-Mon.md"
               }
             }
           },
@@ -184,8 +184,10 @@
   },
   "active": "66db2a8383ad6e3d",
   "lastOpenFiles": [
-    "Daily/2024/September/25-Wed.md",
     "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
+    "Daily/2024/November/11-Mon.md",
+    "Daily/2024/November",
+    "Daily/2024/September/25-Wed.md",
     "Resources/Notes/EventDrivenBacktester/Technologies.md",
     "Daily/2024/September/18-Wed.md",
     "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
@@ -219,7 +221,6 @@
     "Areas/Cookbook/Recipes",
     "Daily/2024/May/28-Tue.md",
     "Resources/Notes/Healthy Food list.md",
-    "Resources/Notes/Notes on 2023 Admired and Desired.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/graph.png",
