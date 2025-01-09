@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025/January/09-Thu.md",
+                "file": "Research/Cryptocurrency Exchange listing requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-Thu"
+              "title": "Cryptocurrency Exchange listing requirements"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2025/January/09-Thu.md",
+                "file": "Research/Cryptocurrency Exchange listing requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 09-Thu"
+              "title": "Backlinks for Cryptocurrency Exchange listing requirements"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2025/January/09-Thu.md",
+                "file": "Research/Cryptocurrency Exchange listing requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 09-Thu"
+              "title": "Outgoing links from Cryptocurrency Exchange listing requirements"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025/January/09-Thu.md"
+                "file": "Research/Cryptocurrency Exchange listing requirements.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 09-Thu"
+              "title": "Outline of Cryptocurrency Exchange listing requirements"
             }
           },
           {
@@ -221,6 +221,7 @@
   "active": "a6ff64a99b73943e",
   "lastOpenFiles": [
     "Daily/2025/January/09-Thu.md",
+    "Research/Cryptocurrency Exchange listing requirements.md",
     "Daily/2025/January",
     "Daily/2025",
     "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
@@ -256,7 +257,6 @@
     "Areas/Cookbook/Recipes/attached/mediterranean-salmon-orzo-salad-photograph-720x720.jpg",
     "Areas/Cookbook/Recipes/attached",
     "Areas/Cookbook/Meal Plans",
-    "Daily/2024/May/28-Tue.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/graph.png",
