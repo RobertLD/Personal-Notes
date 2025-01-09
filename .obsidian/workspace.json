@@ -16,7 +16,9 @@
                 "file": "Blog/_posts/2024-01-26-Collection-of-Project-Ideas.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-01-26-Collection-of-Project-Ideas"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Blog/_drafts/2024-07-20-Five-Mins-on-Caching-Patterns.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-07-20-Five-Mins-on-Caching-Patterns"
             }
           },
           {
@@ -40,11 +44,27 @@
                 "file": "Daily/2024/November/11-Mon.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "11-Mon"
+            }
+          },
+          {
+            "id": "a6ff64a99b73943e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025/January/09-Thu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-Thu"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -64,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/November/11-Mon.md",
+                "file": "Daily/2025/January/09-Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 09-Thu"
             }
           },
           {
@@ -127,10 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/November/11-Mon.md",
+                "file": "Daily/2025/January/09-Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 09-Thu"
             }
           },
           {
@@ -141,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/November/11-Mon.md"
-              }
+                "file": "Daily/2025/January/09-Thu.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 09-Thu"
             }
           },
           {
@@ -159,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
@@ -182,8 +218,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66db2a8383ad6e3d",
+  "active": "a6ff64a99b73943e",
   "lastOpenFiles": [
+    "Daily/2025/January/09-Thu.md",
+    "Daily/2025/January",
+    "Daily/2025",
     "Resources/Notes/EventDrivenBacktester/Desgining an EventEngine for backtesting.md",
     "Daily/2024/November/11-Mon.md",
     "Daily/2024/November",
@@ -217,10 +256,7 @@
     "Areas/Cookbook/Recipes/attached/mediterranean-salmon-orzo-salad-photograph-720x720.jpg",
     "Areas/Cookbook/Recipes/attached",
     "Areas/Cookbook/Meal Plans",
-    "Areas/Cookbook/Shopping Lists",
-    "Areas/Cookbook/Recipes",
     "Daily/2024/May/28-Tue.md",
-    "Resources/Notes/Healthy Food list.md",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/graph.png",
