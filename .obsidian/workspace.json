@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025/March/15-Sat.md",
+                "file": "Projects/QuantCryptoModel/Desired datasets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15-Sat"
+              "title": "Desired datasets"
             }
           }
         ],
@@ -235,6 +235,8 @@
   "active": "be7ceef79a761fb7",
   "lastOpenFiles": [
     "Daily/2025/March/15-Sat.md",
+    "Projects/QuantCryptoModel/Desired datasets.md",
+    "Projects/QuantCryptoModel",
     "Daily/2025/March",
     "Daily/2025/January/09-Thu.md",
     "Research/Cryptocurrency Exchange listing requirements.md",
@@ -267,10 +269,8 @@
     "Daily/2024/July",
     "Daily/2024/June/22-Sat.md",
     "Research/CryptoStuff",
-    "Daily/2024/June/09-Sun.md",
     "Daily/2024/June",
     "Areas/Cookbook/Recipes/attached/mediterranean-salmon-orzo-salad-photograph-720x720.jpg",
-    "Areas/Cookbook/Recipes/attached",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/graph.png",
