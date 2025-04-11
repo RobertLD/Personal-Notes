@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "11-Fri"
             }
+          },
+          {
+            "id": "9f09f09e8a153273",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-11 10.41.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-11 10.41.01.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -244,12 +256,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a1bc895cdc1ce7c",
+  "active": "9f09f09e8a153273",
   "lastOpenFiles": [
     "Daily/2025/April/11-Fri.md",
+    "Excalidraw/Drawing 2025-04-11 10.41.01.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
     "Daily/2025/April",
     "Daily/2025/March/15-Sat.md",
     "Projects/QuantCryptoModel/Desired datasets.md",
@@ -282,14 +298,11 @@
     "Blog/_posts/2024-01-27-Learning-Vim-again.md",
     "Blog/_posts/2024-01-26-Pull-Request-Check-List.md",
     "Daily/2024/July/12-Fri.md",
-    "Research/CryptoStuff/Investigating 1min bars.md",
     "Daily/2024/July",
-    "Research/CryptoStuff",
     "Areas/Cookbook/Recipes/attached/mediterranean-salmon-orzo-salad-photograph-720x720.jpg",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
     "Blog/attached/graph.png",
-    "Untitled.canvas",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121115055.png",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121114824.png",
     "Resources/Reference/Obsidian/attached/Pasted image 20240121114558.png"
