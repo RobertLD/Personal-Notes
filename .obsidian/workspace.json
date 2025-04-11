@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Desired datasets"
             }
+          },
+          {
+            "id": "8a1bc895cdc1ce7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025/April/11-Fri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11-Fri"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -232,8 +247,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be7ceef79a761fb7",
+  "active": "8a1bc895cdc1ce7c",
   "lastOpenFiles": [
+    "Daily/2025/April/11-Fri.md",
+    "Daily/2025/April",
     "Daily/2025/March/15-Sat.md",
     "Projects/QuantCryptoModel/Desired datasets.md",
     "Projects/QuantCryptoModel",
@@ -267,9 +284,7 @@
     "Daily/2024/July/12-Fri.md",
     "Research/CryptoStuff/Investigating 1min bars.md",
     "Daily/2024/July",
-    "Daily/2024/June/22-Sat.md",
     "Research/CryptoStuff",
-    "Daily/2024/June",
     "Areas/Cookbook/Recipes/attached/mediterranean-salmon-orzo-salad-photograph-720x720.jpg",
     "Blog/attached/graph.png",
     "Blog/attached/omnivore.png",
